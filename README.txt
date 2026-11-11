@@ -1,0 +1,2 @@
+COURT DROP v2 — open index.html in a browser.
+Includes 90 curated venues, actual venue photos where available, openly labelled representative real photography elsewhere. 20 shareable completion badges (city, Hong Kong region, world region and master). Played statuses are stored locally and backed up in v1-compatible JSON. Share uses device native share when supported or downloads a PNG. Photos are externally hosted and may require appropriate permissions for reuse. For a production site, replace representative photos with rights-cleared court-specific photographs.

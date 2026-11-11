@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "ct001",
+    "name": "Victoria Park Tennis Court",
+    "city": "Hong Kong",
+    "district": "Wan Chai",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "A classic city-centre tennis destination in Causeway Bay.",
+    "photo": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park · official venue photo",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct002",
+    "name": "Victoria Park Centre Court",
+    "city": "Hong Kong",
+    "district": "Wan Chai",
+    "country": "Hong Kong SAR",
+    "access": "verify",
+    "tier": "signature",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "A tournament show court; check public access before planning a hit.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct003",
+    "name": "Hong Kong Tennis Centre",
+    "city": "Hong Kong",
+    "district": "Wan Chai",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "A substantial public tennis facility on Wong Nai Chung Gap Road.",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct004",
+    "name": "Causeway Bay Sports Ground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Wan Chai",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct005",
+    "name": "Bowen Road Tennis Court",
+    "city": "Hong Kong",
+    "district": "Wan Chai",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct006",
+    "name": "Chai Wan Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Eastern",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct007",
+    "name": "Quarry Bay Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Eastern",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct008",
+    "name": "Sai Wan Ho Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Eastern",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct009",
+    "name": "Aberdeen Tennis and Squash Centre",
+    "city": "Hong Kong",
+    "district": "Southern",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct010",
+    "name": "Junction Road Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kowloon City",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct011",
+    "name": "Tin Kwong Road Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kowloon City",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct012",
+    "name": "Hoi Sham Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kowloon City",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct013",
+    "name": "Ho Man Tin Sports Centre Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kowloon City",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct014",
+    "name": "Morse Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Wong Tai Sin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct015",
+    "name": "Choi Hung Road Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Wong Tai Sin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct016",
+    "name": "Ma Chai Hang Sports Centre Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Wong Tai Sin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct017",
+    "name": "Jordan Valley Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kwun Tong",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct018",
+    "name": "Hong Ning Road Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kwun Tong",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct019",
+    "name": "Ping Shek Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kwun Tong",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct020",
+    "name": "Sin Fat Road Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kwun Tong",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct021",
+    "name": "Shek Kip Mei Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sham Shui Po",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct022",
+    "name": "Lai Chi Kok Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sham Shui Po",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct023",
+    "name": "Tung Chau Street Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sham Shui Po",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct024",
+    "name": "King’s Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Yau Tsim Mong",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct025",
+    "name": "Cherry Street Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Yau Tsim Mong",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct026",
+    "name": "Siu Lek Yuen Road Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sha Tin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct027",
+    "name": "Yuen Wo Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sha Tin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct028",
+    "name": "Tsang Tai Uk Recreation Ground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sha Tin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct029",
+    "name": "Hin Tin Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sha Tin",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct030",
+    "name": "Po Tsui Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sai Kung",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct031",
+    "name": "Sai Kung Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Sai Kung",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct032",
+    "name": "North District Sports Ground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "North",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct033",
+    "name": "Tai Po Sports Ground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tai Po",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct034",
+    "name": "Wan Tau Kok Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tai Po",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct035",
+    "name": "Tsing Yi Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kwai Tsing",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct036",
+    "name": "Kwai Shing Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Kwai Tsing",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct037",
+    "name": "Tsuen Wan Riviera Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tsuen Wan",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct038",
+    "name": "Tsuen King Circuit Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tsuen Wan",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct039",
+    "name": "Shing Mun Valley Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tsuen Wan",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct040",
+    "name": "Tsuen Wan Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tsuen Wan",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct041",
+    "name": "Tsing Sin Playground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tuen Mun",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct042",
+    "name": "Tang Shiu Kin Sports Ground Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tuen Mun",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct043",
+    "name": "Wu Shan Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Tuen Mun",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct044",
+    "name": "Sai Ching Street Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Yuen Long",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct045",
+    "name": "Cheung Chau Park Tennis Courts",
+    "city": "Hong Kong",
+    "district": "Islands",
+    "country": "Hong Kong SAR",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42",
+    "note": "Island-side tennis; no floodlight system is listed for this venue.",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct046",
+    "name": "Hyde Park Tennis Courts",
+    "city": "London",
+    "district": "Westminster",
+    "country": "United Kingdom",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://sportsandleisure.royalparks.org.uk/the-courts/tennis",
+    "note": "Royal park setting near the Serpentine.",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct047",
+    "name": "The Regent’s Park Tennis Centre",
+    "city": "London",
+    "district": "Camden",
+    "country": "United Kingdom",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://sportsandleisure.royalparks.org.uk/the-courts/tennis",
+    "note": "Royal park courts with a café and leafy surroundings.",
+    "photo": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Regent%27s_Park_Tennis_Centre_-_geograph.org.uk_-_1238968.jpg",
+      "Wikimedia Commons · Geograph photographer",
+      "https://commons.wikimedia.org/wiki/File:Regent%27s_Park_Tennis_Centre_-_geograph.org.uk_-_1238968.jpg"
+    ]
+  },
+  {
+    "id": "ct048",
+    "name": "Greenwich Park Tennis Courts",
+    "city": "London",
+    "district": "Greenwich",
+    "country": "United Kingdom",
+    "access": "public",
+    "tier": "local",
+    "source": "https://sportsandleisure.royalparks.org.uk/the-courts/tennis",
+    "note": "Historic London park and nearby sweeping viewpoints.",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct049",
+    "name": "Wimbledon Park Tennis Courts",
+    "city": "London",
+    "district": "Wandsworth",
+    "country": "United Kingdom",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lta.org.uk/play/tennis-near-you/london/",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct050",
+    "name": "Islington Tennis Centre",
+    "city": "London",
+    "district": "Islington",
+    "country": "United Kingdom",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.lta.org.uk/play/tennis-near-you/london/",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct051",
+    "name": "Central Park Tennis Center",
+    "city": "New York",
+    "district": "Manhattan",
+    "country": "United States",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.nycgovparks.org/facilities/tennis",
+    "note": "Historic park tennis scene; an NYC Parks tennis permit is required in season.",
+    "photo": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy · venue photography",
+      "https://www.centralparknyc.org/locations/tennis-courts"
+    ]
+  },
+  {
+    "id": "ct052",
+    "name": "Riverside Park 119th Street Tennis Courts",
+    "city": "New York",
+    "district": "Manhattan",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.nycgovparks.org/facilities/tennis",
+    "note": "Riverside parkland and the Upper West Side.",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct053",
+    "name": "Denny Farrell Riverbank State Park Tennis Courts",
+    "city": "New York",
+    "district": "Manhattan",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://staffportal.parks.ny.gov/parks/riverbank/amenities.aspx",
+    "note": "Four courts at a state park along the Hudson River.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct054",
+    "name": "Fort Washington Park Tennis Courts",
+    "city": "New York",
+    "district": "Manhattan",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.manhattantennisassociation.com/court-finder/",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct055",
+    "name": "Fort Greene Park Tennis Courts",
+    "city": "New York",
+    "district": "Brooklyn",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.nycgovparks.org/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct056",
+    "name": "Ariake Tennis Park",
+    "city": "Tokyo",
+    "district": "Koto",
+    "country": "Japan",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://en.sports-tokyo-info.metro.tokyo.lg.jp/english/tokyoSportsFacilities/facility/15.html",
+    "note": "International competition legacy with public-use courts; check eligibility and schedules.",
+    "photo": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/Ariake_Tennis_Park.jpg",
+      "Wikimedia Commons · file attribution",
+      "https://commons.wikimedia.org/wiki/File:Ariake_Tennis_Park.jpg"
+    ]
+  },
+  {
+    "id": "ct057",
+    "name": "Komazawa Olympic Park Tennis Courts",
+    "city": "Tokyo",
+    "district": "Setagaya",
+    "country": "Japan",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.sports-tokyo-info.metro.tokyo.lg.jp/english/sportsClass.html",
+    "note": "Sport-rich Olympic park atmosphere.",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct058",
+    "name": "Kallang Tennis Hub",
+    "city": "Singapore",
+    "district": "Kallang",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.thekallang.com.sg/en/plan-your-visit/venues-and-amenities/kallang-tennis-hub.html",
+    "note": "Indoor and outdoor courts in a modern venue; some courts may close for events.",
+    "photo": [
+      "https://static.mothership.sg/1/2024/04/421942453_853536263246357_4407656254302102350_n.jpg",
+      "Mothership.sg · venue photography",
+      "https://mothership.sg/2024/04/singapore-sports-hub-new-venues/"
+    ]
+  },
+  {
+    "id": "ct059",
+    "name": "Kallang Tennis Centre",
+    "city": "Singapore",
+    "district": "Kallang",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.activesgcircle.gov.sg/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct060",
+    "name": "Yio Chu Kang Tennis Centre",
+    "city": "Singapore",
+    "district": "Ang Mo Kio",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.activesgcircle.gov.sg/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct061",
+    "name": "Choa Chu Kang Tennis Centre",
+    "city": "Singapore",
+    "district": "Choa Chu Kang",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.activesgcircle.gov.sg/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct062",
+    "name": "Heartbeat @ Bedok ActiveSG Tennis Centre",
+    "city": "Singapore",
+    "district": "Bedok",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.activesgcircle.gov.sg/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct063",
+    "name": "Jurong West Tennis Centre",
+    "city": "Singapore",
+    "district": "Jurong West",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.activesgcircle.gov.sg/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct064",
+    "name": "Burghley Tennis Centre",
+    "city": "Singapore",
+    "district": "Bishan",
+    "country": "Singapore",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.activesgcircle.gov.sg/facilities/tennis",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct065",
+    "name": "Tennis Suzanne Lenglen",
+    "city": "Paris",
+    "district": "15th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.paris.fr/pages/les-tennis-2136/",
+    "note": "Municipal tennis in Paris’s 15th arrondissement.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct066",
+    "name": "Tennis La Faluère",
+    "city": "Paris",
+    "district": "12th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.paris.fr/pages/les-tennis-2136/",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct067",
+    "name": "Tennis Léo Lagrange",
+    "city": "Paris",
+    "district": "12th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.paris.fr/pages/les-tennis-2136/",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct068",
+    "name": "Tennis Edouard Pailleron",
+    "city": "Paris",
+    "district": "19th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.paris.fr/pages/jouez-au-tennis-et-au-padel-toute-l-annee-a-paris-et-dans-sa-proche-banlieue-36234",
+    "note": "An unusual Paris neighbourhood tennis setting.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct069",
+    "name": "Tennis Moureu Baudricourt",
+    "city": "Paris",
+    "district": "13th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://mairie13.paris.fr/pages/equipements-sportifs-municipaux-10708",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct070",
+    "name": "Tennis Dunois",
+    "city": "Paris",
+    "district": "13th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://mairie13.paris.fr/pages/equipements-sportifs-municipaux-10708",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct071",
+    "name": "Tennis Reims",
+    "city": "Paris",
+    "district": "17th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.paris.fr/pages/les-tennis-2136/",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct072",
+    "name": "Tennis Courcelles",
+    "city": "Paris",
+    "district": "17th arrondissement",
+    "country": "France",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.paris.fr/pages/les-tennis-2136/",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct073",
+    "name": "Prince Alfred Park Tennis Courts",
+    "city": "Sydney",
+    "district": "Surry Hills",
+    "country": "Australia",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",
+    "note": "An easy tennis stop near the heart of Sydney.",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct074",
+    "name": "Rushcutters Bay Park Tennis Courts",
+    "city": "Sydney",
+    "district": "Rushcutters Bay",
+    "country": "Australia",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",
+    "note": "Harbourside suburb tennis.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct075",
+    "name": "Alexandria Park Tennis Courts",
+    "city": "Sydney",
+    "district": "Alexandria",
+    "country": "Australia",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct076",
+    "name": "Beaconsfield Park Tennis Courts",
+    "city": "Sydney",
+    "district": "Beaconsfield",
+    "country": "Australia",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct077",
+    "name": "Turruwul Park Tennis Courts",
+    "city": "Sydney",
+    "district": "Rosebery",
+    "country": "Australia",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct078",
+    "name": "St James Park Tennis Courts",
+    "city": "Sydney",
+    "district": "Glebe",
+    "country": "Australia",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct079",
+    "name": "Carlton Gardens Tennis Club",
+    "city": "Melbourne",
+    "district": "Carlton",
+    "country": "Australia",
+    "access": "public",
+    "tier": "local",
+    "source": "https://play.tennis.com.au/CarltonGardensTennisClub/Booking/BookingInfo",
+    "note": "Book-a-Court club courts available to non-members.",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct080",
+    "name": "Tennis World Melbourne Park",
+    "city": "Melbourne",
+    "district": "Melbourne Park",
+    "country": "Australia",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.tennisworld.net.au/",
+    "note": "Training courts near the Australian Open precinct; arenas are not public hire courts.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct081",
+    "name": "Stanley Park Tennis Courts",
+    "city": "Vancouver",
+    "district": "West End",
+    "country": "Canada",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://vancouver.ca/parks-recreation-culture/tennis.aspx",
+    "note": "A park-court experience by Vancouver’s greenery and waterfront.",
+    "photo": [
+      "https://images.spaicelabs.com/images/flus6j8v/production/d54138a97946c014760b9e7f28814b0d2a243828-6192x4128.jpg?fit=max&fm=webp&q=75&w=1000",
+      "Destination Vancouver · venue photography",
+      "https://www.destinationvancouver.com/things-to-do/listings/stanley-park-tennis-court"
+    ]
+  },
+  {
+    "id": "ct082",
+    "name": "Kitsilano Beach Park Tennis Courts",
+    "city": "Vancouver",
+    "district": "Kitsilano",
+    "country": "Canada",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://vancouver.ca/parks-recreation-culture/tennis.aspx",
+    "note": "Tennis near the beach.",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct083",
+    "name": "Queen Elizabeth Park Tennis Courts",
+    "city": "Vancouver",
+    "district": "Riley Park",
+    "country": "Canada",
+    "access": "public",
+    "tier": "local",
+    "source": "https://vancouver.ca/parks-recreation-culture/tennis.aspx",
+    "note": "A lush city park with multiple courts.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct084",
+    "name": "Riverside Tennis Courts",
+    "city": "Los Angeles",
+    "district": "Griffith Park",
+    "country": "United States",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://recreation.parks.lacity.gov/sports/tennis/facility/riverside",
+    "note": "Griffith Park tennis at 3401 Riverside Drive.",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct085",
+    "name": "Vermont Canyon Tennis Courts",
+    "city": "Los Angeles",
+    "district": "Griffith Park",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://recreation.parks.lacity.gov/sports/tennis/pay",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct086",
+    "name": "Poinsettia Tennis Courts",
+    "city": "Los Angeles",
+    "district": "West Hollywood area",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://recreation.parks.lacity.gov/sports/tennis/pay",
+    "note": "",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct087",
+    "name": "Cheviot Hills Tennis Courts",
+    "city": "Los Angeles",
+    "district": "West Los Angeles",
+    "country": "United States",
+    "access": "public",
+    "tier": "local",
+    "source": "https://recreation.parks.lacity.gov/sports/tennis/pay",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  },
+  {
+    "id": "ct088",
+    "name": "Agincourt Park Tennis Courts",
+    "city": "Toronto",
+    "district": "Scarborough",
+    "country": "Canada",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html",
+    "note": "",
+    "representativePhoto": [
+      "https://assets.centralparknyc.org/media/images/_2475x1856_crop_center-center_none/Tennis_20190507_037.JPG",
+      "Central Park Conservancy tennis photography",
+      "https://www.centralparknyc.org/locations/tennis-center"
+    ]
+  },
+  {
+    "id": "ct089",
+    "name": "Centre Municipal Tennis Vall Hebron",
+    "city": "Barcelona",
+    "district": "Horta-Guinardó",
+    "country": "Spain",
+    "access": "public",
+    "tier": "signature",
+    "source": "https://www.courts.tennis/barcelona/centre-municipal-tennis-vall-hebron",
+    "note": "The historic Olympic tennis district; check individual court bookings.",
+    "representativePhoto": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Victoria_Park_Overview_201810_%28cropped%29.jpg",
+      "Wikimedia Commons · Victoria Park overview",
+      "https://commons.wikimedia.org/wiki/File:Victoria_Park_Overview_201810_(cropped).jpg"
+    ]
+  },
+  {
+    "id": "ct090",
+    "name": "Club Natació Montjuïc Tennis Courts",
+    "city": "Barcelona",
+    "district": "Sants-Montjuïc",
+    "country": "Spain",
+    "access": "public",
+    "tier": "local",
+    "source": "https://www.courts.tennis/book-a-tennis-court/barcelona",
+    "note": "",
+    "representativePhoto": [
+      "https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg",
+      "LCSD Victoria Park tennis centre",
+      "https://www.lcsd.gov.hk/en/parks/vp/index.html"
+    ]
+  }
+]
