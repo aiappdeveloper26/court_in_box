@@ -1,0 +1,16 @@
+COURT DROP v5.6 — REMAINING VERIFICATION WORK
+
+Confirmed against official sources: 71/547
+Official-directory-linked, not individually audited: 356
+Records needing dedicated verification: 120
+Licensed venue-specific photos: 8
+Venues displaying generic photo/illustration fallback: 539
+
+NEXT PRIORITIES
+1. Independently verify directory-linked records, especially private clubs and duplicate names.
+2. Complete missing addresses, floodlights, court counts and surfaces using primary-source information only.
+3. Source photo permissions for unreviewed historical external links; don't present those images as cleared.
+4. Expand legally usable venue photography from Wikimedia Commons or venue-supplied photos with express permission.
+5. Test remote image delivery and IndexedDB photo restores on actual mobile devices.
+
+No booking functionality is included.

@@ -1,0 +1,548 @@
+﻿id,venue,city,audit_status,photo_status,previous_image_urls,photo_source,needed_action
+ct001,Victoria Park Tennis Court,Hong Kong,directory,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/3/3d/Victoria_Park_Tennis_and_Swimming.jpg,Nath87 / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Victoria_Park_Tennis_and_Swimming.jpg",https://commons.wikimedia.org/wiki/File:Victoria_Park_Tennis_and_Swimming.jpg,Retain with credits; periodically recheck source and licence
+ct002,Victoria Park Centre Court,Hong Kong,directory,source-image-unlicensed,"https://www.lcsd.gov.hk/en/parks/vp/common/graphics/slideshow/10.jpg,LCSD · Victoria Park Centre Court,https://www.lcsd.gov.hk/en/parks/vp/index.html",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct003,Hong Kong Tennis Centre,Hong Kong,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct004,Causeway Bay Sports Ground Tennis Courts,Hong Kong,confirmed,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/3/3e/HK_CWB_HKCL_view_Tai_Hang_08_Chinese_Recreation_Club_tennis_courts_Causeway_Bay_Sports_Ground.JPG,Strasheurm / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:HK_CWB_HKCL_view_Tai_Hang_08_Chinese_Recreation_Club_tennis_courts_Causeway_Bay_Sports_Ground.JPG",https://commons.wikimedia.org/wiki/File:HK_CWB_HKCL_view_Tai_Hang_08_Chinese_Recreation_Club_tennis_courts_Causeway_Bay_Sports_Ground.JPG,Retain with credits; periodically recheck source and licence
+ct005,Bowen Road Tennis Court,Hong Kong,confirmed,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/d/d0/Bowen_Road_Tennis_Court.jpg,Cypp0847 / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Bowen_Road_Tennis_Court.jpg",https://commons.wikimedia.org/wiki/File:Bowen_Road_Tennis_Court.jpg,Retain with credits; periodically recheck source and licence
+ct006,Chai Wan Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct007,Quarry Bay Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct008,Sai Wan Ho Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct009,Aberdeen Tennis and Squash Centre,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct010,Junction Road Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct011,Tin Kwong Road Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct012,Hoi Sham Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct013,Ho Man Tin Sports Centre Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct014,Morse Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct015,Choi Hung Road Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct016,Ma Chai Hang Sports Centre Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct017,Jordan Valley Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct018,Hong Ning Road Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct019,Ping Shek Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct020,Sin Fat Road Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct021,Shek Kip Mei Park Tennis Courts,Hong Kong,directory,source-image-unlicensed,"https://www.lcsd.gov.hk/en/parks/skmp/common/graphics/slideshow/05.jpg,LCSD · Shek Kip Mei Park tennis courts,https://www.lcsd.gov.hk/en/parks/skmp/index.html",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct022,Lai Chi Kok Park Tennis Courts,Hong Kong,directory,source-image-unlicensed,"https://www.lcsd.gov.hk/en/parks/lckp/common/graphics/slideshow/10.jpg,LCSD · Lai Chi Kok Park tennis courts,https://www.lcsd.gov.hk/en/parks/lckp/index.html",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct023,Tung Chau Street Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct024,King’s Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct025,Cherry Street Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct026,Siu Lek Yuen Road Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct027,Yuen Wo Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct028,Tsang Tai Uk Recreation Ground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct029,Hin Tin Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct030,Po Tsui Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct031,Sai Kung Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct032,North District Sports Ground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct033,Tai Po Sports Ground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct034,Wan Tau Kok Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct035,Tsing Yi Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct036,Kwai Shing Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct037,Tsuen Wan Riviera Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct038,Tsuen King Circuit Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct039,Shing Mun Valley Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct040,Tsuen Wan Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct041,Tsing Sin Playground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct042,Tang Shiu Kin Sports Ground Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct043,Wu Shan Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct044,Sai Ching Street Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct045,Cheung Chau Park Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct046,Hyde Park Tennis Courts,London,review,source-image-unlicensed,"https://parksports.co.uk/media/images/Venue-Pages/Hyde-Park/_1200xAUTO_crop_center-center_none_ns/Hyde-Park-Tennis-Courts.jpg,Park Sports · Hyde Park tennis,https://parksports.co.uk/activities/pay-and-play-tennis",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct047,The Regent’s Park Tennis Centre,London,review,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/3/3d/Regent%27s_Park_Tennis_Centre_-_geograph.org.uk_-_1238968.jpg,Stephen McKay / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Regent's_Park_Tennis_Centre_-_geograph.org.uk_-_1238968.jpg",https://commons.wikimedia.org/wiki/File:Regent's_Park_Tennis_Centre_-_geograph.org.uk_-_1238968.jpg,Retain with credits; periodically recheck source and licence
+ct048,Greenwich Park Tennis Courts,London,review,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/2/2c/Greenwich_Park%2C_tennis_courts_-_geograph.org.uk_-_1540519.jpg,Stephen Craven / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Greenwich_Park%2C_tennis_courts_-_geograph.org.uk_-_1540519.jpg",https://commons.wikimedia.org/wiki/File:Greenwich_Park%2C_tennis_courts_-_geograph.org.uk_-_1540519.jpg,Retain with credits; periodically recheck source and licence
+ct049,Wimbledon Park Tennis Courts,London,review,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/e/e5/Tennis_courts_on_Wimbledon_Park_-_geograph.org.uk_-_3435489.jpg,David Howard / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Tennis_courts_on_Wimbledon_Park_-_geograph.org.uk_-_3435489.jpg",https://commons.wikimedia.org/wiki/File:Tennis_courts_on_Wimbledon_Park_-_geograph.org.uk_-_3435489.jpg,Retain with credits; periodically recheck source and licence
+ct050,Islington Tennis Centre,London,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct051,Central Park Tennis Center,New York,review,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/8/8c/Central_Park_Tennis_Center%2C_Manhattan%2C_New_York%2C_US.jpg,Clyde Charles Brown / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Central_Park_Tennis_Center%2C_Manhattan%2C_New_York%2C_US.jpg",https://commons.wikimedia.org/wiki/File:Central_Park_Tennis_Center%2C_Manhattan%2C_New_York%2C_US.jpg,Retain with credits; periodically recheck source and licence
+ct052,Riverside Park 119th Street Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct053,Denny Farrell Riverbank State Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct054,Fort Washington Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct055,Fort Greene Park Tennis Courts,New York,review,source-image-unlicensed,"https://images.squarespace-cdn.com/content/v1/56bcd2eae707eb87a6e361e6/1564590791899-XYTMHDWT9FC86X76ZJLM/All%2Bcourts%2Baerial%2Bbusy-ANIMATION.gif,Fort Greene Tennis Association · aerial photo,https://www.fortgreenetennis.org/",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct056,Ariake Tennis Park,Tokyo,review,licensed-venue,"https://upload.wikimedia.org/wikipedia/commons/0/09/Ariake_Tennis_Park.jpg,Ryoma35988 / Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Ariake_Tennis_Park.jpg",https://commons.wikimedia.org/wiki/File:Ariake_Tennis_Park.jpg,Retain with credits; periodically recheck source and licence
+ct057,Komazawa Olympic Park Tennis Courts,Tokyo,review,source-image-unlicensed,"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hommasusumu/20221010/20221010152719.jpg,Hommassusumu local photo · Komazawa courts,https://hommasusumu.hatenablog.com/entry/2022/10/08/000000",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct058,Kallang Tennis Hub,Singapore,review,source-image-unlicensed,"https://static.mothership.sg/1/2024/04/421942453_853536263246357_4407656254302102350_n.jpg,Mothership.sg · venue photography,https://mothership.sg/2024/04/singapore-sports-hub-new-venues/",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct059,Kallang Tennis Centre,Singapore,review,source-image-unlicensed,"https://images.squarespace-cdn.com/content/v1/5a97763275f9eeee0b6f77f0/1589424609073-30OM7KXYTG9CD9SJMDJN/Tennis-Lessons-Singapore-Kallang-Tennis-Centre.jpg,PlayTennis Singapore · Kallang Tennis Centre,https://www.playtennis.sg/kallang-tennis-centre",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct060,Yio Chu Kang Tennis Centre,Singapore,review,source-image-unlicensed,"https://www.activesgcircle.gov.sg/hubfs/Circle%202.0%20Refresh/images/Yio%20Chu%20Kang%20Tennis%20Courts2.jpg,ActiveSG · Yio Chu Kang Tennis Centre,https://www.activesgcircle.gov.sg/facilities/yio-chu-kang-tennis-centre",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct061,Choa Chu Kang Tennis Centre,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct062,Heartbeat @ Bedok ActiveSG Tennis Centre,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct063,Jurong West Tennis Centre,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct064,Burghley Tennis Centre,Singapore,review,source-image-unlicensed,"https://www.activesgcircle.gov.sg/hs-fs/hubfs/ActiveSG%20Facilities%20Page/Facility%20Photos%202023/ActiveSG%20Facilities/Others/20230117_Burghley%20Tennis%20Courts_7522.jpg?height=902&name=20230117_Burghley+Tennis+Courts_7522.jpg&width=1354,ActiveSG · Burghley Tennis Centre,https://www.activesgcircle.gov.sg/facilities/tennis",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct065,Tennis Suzanne Lenglen,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct066,Tennis La Faluère,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct067,Tennis Léo Lagrange,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct068,Tennis Edouard Pailleron,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct069,Tennis Moureu Baudricourt,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct070,Tennis Dunois,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct071,Tennis Reims,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct072,Tennis Courcelles,Paris,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct073,Prince Alfred Park Tennis Courts,Sydney,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct074,Rushcutters Bay Park Tennis Courts,Sydney,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct075,Alexandria Park Tennis Courts,Sydney,review,source-image-unlicensed,"https://storage.googleapis.com/kourty/alexandria-park-alexandria.jpg,Kourty · Alexandria Park tennis,https://www.kourty.com/tennis/alexandria-park-alexandria",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct076,Beaconsfield Park Tennis Courts,Sydney,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct077,Turruwul Park Tennis Courts,Sydney,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct078,St James Park Tennis Courts,Sydney,review,source-image-unlicensed,"https://www.cityofsydney.nsw.gov.au/-/jssmedia/corporate/images/services/facility-bookings-outdoor-events/book-a-tennis-court/stjamespark-highres-1657-1.jpg?mw=640,City of Sydney · St James Park courts,https://www.cityofsydney.nsw.gov.au/sports-facility-booking-services/book-tennis-court",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct079,Carlton Gardens Tennis Club,Melbourne,review,source-image-unlicensed,"https://www.melbourneplaygrounds.com.au/images/carlton-gardens-tennis-club-%28carlton%29.jpg,Melbourne Playgrounds · Carlton Gardens tennis,https://www.melbourneplaygrounds.com.au/carlton-gardens-tennis-club",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct080,Tennis World Melbourne Park,Melbourne,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct081,Stanley Park Tennis Courts,Vancouver,review,source-image-unlicensed,"https://images.spaicelabs.com/images/flus6j8v/production/d54138a97946c014760b9e7f28814b0d2a243828-6192x4128.jpg?fit=max&fm=webp&q=75&w=1000,Destination Vancouver · venue photography,https://www.destinationvancouver.com/things-to-do/listings/stanley-park-tennis-court",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct082,Kitsilano Beach Park Tennis Courts,Vancouver,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct083,Queen Elizabeth Park Tennis Courts,Vancouver,review,source-image-unlicensed,"https://www.heritagesitefinder.ca/img/asset/bG9jYXRpb25faW1hZ2VzL3FlLXBhcmstdGVubmlzLWNvdXJ0cy1yb2ItYXRraW5zLmpwZw%3D%3D?p=lg,Vancouver Heritage Foundation · Queen Elizabeth Park tennis,https://www.heritagesitefinder.ca/location/498-w-29th-ave-vancouver-bc",,Find reusable venue photo or obtain rights approval; hide existing link until cleared
+ct084,Riverside Tennis Courts,Los Angeles,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct085,Vermont Canyon Tennis Courts,Los Angeles,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct086,Poinsettia Tennis Courts,Los Angeles,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct087,Cheviot Hills Tennis Courts,Los Angeles,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct088,Agincourt Park Tennis Courts,Toronto,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct089,Centre Municipal Tennis Vall Hebron,Barcelona,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct090,Club Natació Montjuïc Tennis Courts,Barcelona,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0091,Hong Kong Football Club Tennis Courts,Hong Kong,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0092,Ladies' Recreation Club Tennis Courts,Hong Kong,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0093,Craigengower Cricket Club Tennis Courts,Hong Kong,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0094,Kowloon Cricket Club Tennis Courts,Hong Kong,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0095,United Services Recreation Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0096,Aberdeen Marina Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0097,Pacific Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0098,Club de Recreio Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0099,Kowloon Tong Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0100,Yau Yat Chuen Garden City Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0101,Hong Kong Country Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0102,Kowloon Bowling Green Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0103,Clearwater Bay Golf & Country Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0104,Hong Kong Golf & Tennis Academy Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0105,The Country Club at Hong Lok Yuen Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0106,Gold Coast Yacht & Country Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0107,HKJC Happy Valley Old Clubhouse Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0108,HKJC Happy Valley New Clubhouse Rooftop Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0109,HKJC Beas River Country Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0110,Indian Recreation Club Tennis Courts,Hong Kong,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0111,Alamo Square Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0112,Alice Chalmers Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0113,Alice Marble Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0114,Alta Plaza Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0115,Aptos Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0116,Argonne Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0117,Balboa Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0118,Buena Vista Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0119,Cabrillo Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0120,Cayuga Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0121,Coronado Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0122,Crocker Amazon Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0123,Dolores Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0124,Douglass Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0125,DuPont Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0126,Eureka Valley Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0127,Excelsior Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0128,Fulton Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0129,George Christopher Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0130,Glen Canyon Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0131,Golden Gate Heights Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0132,Goldman Tennis Center,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0133,Grattan Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0134,Hamilton Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0135,Hayes Valley Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0136,Helen Wills Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0137,Holly Park Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0138,J. P. Murphy Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0139,Jackson Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0140,James Rolph Jr. Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0141,Joe DiMaggio Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0142,Junipero Serra Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0143,Lafayette Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0144,Laurel Hill Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0145,Margaret S. Hayward Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0146,McCoppin Square Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0147,McLaren Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0148,Merced Heights Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0149,Minnie & Lovie Ward Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0150,Miraloma Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0151,Mission Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0152,Mission Creek Park Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0153,Moscone Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0154,Mountain Lake Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0155,Noe Valley Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0156,Palega Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0157,Parkside Square Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0158,Peixotto (15th St) Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0159,Potrero Hill Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0160,Presidio Wall Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0161,Richmond Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0162,Rochambeau Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0163,Rossi Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0164,Silver Terrace Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0165,South Sunset Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0166,St. Mary's Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0167,States Street (Flint St) Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0168,Stern Grove Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0169,Sunnyside Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0170,Sunset Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0171,Upper Noe Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0172,West Portal Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0173,West Sunset Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0174,Youngblood Coleman Tennis Courts,San Francisco,confirmed,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0175,Abbott Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0176,Ada Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0177,Amundsen Tennis,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0178,Anderson Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0179,Armour Square Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0180,Athletic Field Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0181,Avalon Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0182,Bell Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0183,Bessemer Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0184,Beverly Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0185,Blackhawk Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0186,Bogan Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0187,Bradley Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0188,Brainerd Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0189,Brands Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0190,Brooks Tennis,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0191,Brown Memorial Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0192,California Tennis Court - Outdoor,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0193,Calumet Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0194,Chase Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0195,Chopin Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0196,Clarendon Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0197,Columbus Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0198,Cooper Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0199,Cornell Square Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0200,Cosme Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0201,Cragin Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0202,Crescent Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0203,Douglass Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0204,Dunham Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0205,Ellis Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0206,Emmerson Tennis,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0207,Euclid Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0208,Eugene Field Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0209,Fernwood Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0210,Foster Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0211,Fuller Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0212,Gage Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0213,Garfield Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0214,Gompers Park Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0215,Grand Crossing Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0216,Graver Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0217,Green Briar Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0218,Hale Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0219,Hamilton Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0220,Hamlin Tennis Court East,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0221,Harrison Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0222,Hollywood Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0223,Horner Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0224,Humboldt Tennis,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0225,Kosciuszko Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0226,La Follette Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0227,Lake Shore Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0228,LeClaire-Hearst Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0229,Legion Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0230,Lerner Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0231,Lincoln Park Waveland Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0232,Lindblom Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0233,Loyola Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0234,Maggie Daley Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0235,Mahalia Jackson Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0236,Mandrake Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0237,Mann Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0238,Marquette Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0239,Mather Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0240,McFetridge Tennis Court - Indoor,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0241,McGuane Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0242,McKinley Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0243,Metcalfe Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0244,Minuteman Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0245,Mt. Greenwood Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0246,Norwood Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0247,O'Hallaren Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0248,Ogden Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0249,Olympia Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0250,Oriole Tennis,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0251,Ridge Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0252,Riis Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0253,River Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0254,Robichaux Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0255,Rogers Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0256,Roosevelt Park Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0257,Rosedale Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0258,Russell Square Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0259,Rutherford Sayre Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0260,Sauganash Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0261,Shabbona Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0262,Sheridan Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0263,Sherman Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0264,Smith Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0265,Touhy Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0266,Trumbull Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0267,Tuley Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0268,Union Tennis Courts,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0269,Vittum Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0270,Warren Park Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0271,Washington Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0272,Welles Tennis Court,Chicago,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0273,Alki Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0274,Amy Yee Tennis Center,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0275,Beacon Hill Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0276,Bitter Lake Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0277,Brighton Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0278,Bryant Neighborhood Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0279,Bobby Morris at Cal Anderson Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0280,Cleveland Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0281,David Rodgers Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0282,Dearborn Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0283,Delridge Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0284,Discovery Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0285,Froula Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0286,Garfield Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0287,Georgetown Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0288,Gilman Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0289,Green Lake Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0290,Hiawatha Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0291,Highland Park Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0292,Hutchinson Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0293,Jefferson Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0294,Kinnear Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0295,Laurelhurst Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0296,Leschi Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0297,Lowman Beach Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0298,Madison Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0299,Madrona Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0300,Magnolia Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0301,Magnolia Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0302,Meadowbrook Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0303,Miller Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0304,Montlake Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0305,Mount Baker Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0306,Observatory Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0307,Rainier Beach Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0308,Rainier Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0309,Ravenna Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0310,Ravenna-Eckstein Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0311,Riverview Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0312,Sam Smith Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0313,Rogers Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0314,Seward Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0315,Solstice Park Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0316,Soundview Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0317,South Park Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0318,University Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0319,Victory Heights Playground Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0320,Volunteer Park Lower Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0321,Volunteer Park Upper Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0322,Wallingford Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0323,Walt Hundley Playfield Tennis Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0324,Woodland Park Lower Courts,Seattle,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0325,Alamosa Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0326,Albion Gardens Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0327,Amesbury Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0328,Ancaster Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0329,Angela James Arena & Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0330,Antibes Community Centre Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0331,Banbury Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0332,Baycrest Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0333,Bayview Village Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0334,Beaches Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0335,Beaumonde Heights Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0336,Bellbury Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0337,Confederation Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0338,Cosburn Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0339,Cresthaven Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0340,Cummer Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0341,Dennis Flynn Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0342,Dovercourt Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0343,Dunlace Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0344,Earlscourt Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0345,East Mall Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0346,Eglinton Flats Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0347,Eglinton Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0348,Elie Wiesel Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0349,High Park Public Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0350,Howard Park Tennis Club at High Park,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0351,Hillcrest Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0352,Howard Talbot Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0353,Hullmar Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0354,Humber Valley Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0355,Indian Line Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0356,Kingsview Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0357,Kirkwood Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0358,L'Amoreaux Tennis Centre,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0359,Laburnham Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0360,Lakeshore Boulevard Parklands Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0361,Lambton - Kingsway Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0362,Lanyard Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0363,Lawrence Park Ravine Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0364,Leaside Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0365,Maple Leaf Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0366,Martingrove Gardens Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0367,Maryland Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0368,Maryvale Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0369,McDairmid Woods Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0370,McGregor Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0371,Rockford Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0372,Rosedale Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0373,Rosethorn Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0374,Rotary Peace Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0375,Royal Crest Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0376,Roywood Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0377,Ruddington Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0378,Runnymede Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0379,Scarboro Crescent Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0380,Scarlett Mills Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0381,Trinity Bellwoods Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0382,Viewmount Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0383,Wanless Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0384,Wedgewood Park - Etobicoke Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0385,Wedgewood Park - North York Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0386,West Deane Park Tennis Courts,Toronto,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0387,Andy Livingstone Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0388,David Lam Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0389,Memorial West Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0390,Charleson Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0391,Granville Loop Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0392,Granville Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0393,Sutcliffe Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0394,Garden Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0395,McSpadden Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0396,Pandora Park Tennis Courts,Vancouver,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0397,Hudson River Park Pier 40 Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0398,USTA Billie Jean King National Tennis Center,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0399,Fort Washington Park Upper Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0400,Inwood Hill Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0401,Astoria Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0402,Flushing Meadows Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0403,Forest Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0404,Highland Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0405,Red Hook Recreation Area Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0406,Van Cortlandt Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0407,Brian Watkins Tennis Center,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0408,Frederick Johnson Playground Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0409,Howard Bennett Playground Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0410,Prospect Park Tennis Center,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0411,McCarren Tennis Center,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0412,Cunningham Tennis Center,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0413,Alley Pond Tennis Center,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0414,Kissena Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0415,Pelham Bay Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0416,St. Mary's Park Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0417,Cary Leeds Center for Tennis & Learning,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0418,Stadium Tennis Center at Mill Pond Park,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0419,Sportime Randall's Island Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0420,Riverside Park 96th Street Tennis Courts,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0421,Roosevelt Island Racquet Club,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0422,Sutton East Tennis Club,New York,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0423,Archbishop's Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0424,Brockwell Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0425,Clapham Common Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0426,Hillside Gardens Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0427,Kennington Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0428,Larkhall Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0429,Ruskin Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0430,Streatham Vale Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0431,Streatham Common Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0432,Vauxhall Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0433,Myatt's Fields Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0434,Finsbury Park Tennis Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0435,Westway Community Indoor Tennis Centre,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0436,Wimbledon Park Outdoor Courts,London,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0437,Tennis Henry de Montherlant,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0438,Tennis La Plaine,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0439,Tennis Croix-Nivert,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0440,Tennis Charles Rigoulot,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0441,Tennis Sablonnière,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0442,Tennis René et André Mourlon,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0443,Tennis Atlantique,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0444,Tennis Poliveau,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0445,Tennis Thiéré,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0446,Tennis Alain Mimoun,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0447,Tennis Aurelle de Paladines,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0448,Tennis Max Rousié,Paris,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0449,Algester State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0450,Ascot State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0451,Ashgrove State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0452,Bardon State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0453,Bedford Playground Park Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0454,Benbek Circuit Park Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0455,Hamilton State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0456,Heath Park - Churchie Tennis Centre,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0457,Hendra State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0458,Hilder Road State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0459,Homestead Park Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0460,Jamboree Heights State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0461,Kalinga Park Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0462,Kedron State High School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0463,Kenmore State High School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0464,Kenmore State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0465,New Farm Park Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0466,Oakleigh State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0467,Payne Road State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0468,Rainworth State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0469,Runcorn State Primary School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0470,Salisbury State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0471,Sandgate District Youth Tennis Association,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0472,Shaw Park Tennis Centre,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0473,Sunnybank Hills State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0474,The Gap State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0475,Toowong State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0476,Wellers Hill State School Tennis Courts,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0477,Wynnum District Lawn Tennis Association,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0478,Yeronga Tennis Club,Brisbane,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0479,Oi Wharf Central Seaside Park Sports Forest,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0480,Tamagawa Green Plaza Tennis Court,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0481,Shimomaruko Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0482,Heiwa no Mori Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0483,Yashio-Kita Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0484,Shinagawa Ward Citizens' Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0485,Setagaya Tamagawa Nogemachi Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0486,Kiba Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0487,Kita Ward Central Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0488,Okudo Sports Center Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0489,Hikarigaoka Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0490,Ukima Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0491,Higashi-Ayase Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0492,Ojima-Komatsugawa Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0493,Koganei Park Tennis Courts,Tokyo,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0494,Sarue Onshi Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0495,Shioiri Park Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0496,Taito Riverside Sports Center Tennis Courts,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0497,Takanawa Tennis Center,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0498,Tokyo Lawn Tennis Club,Tokyo,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0499,Utsubo Tennis Center,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0500,Marine Tennis Park Kitamura,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0501,Nagai Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0502,Tsurumi Ryokuchi Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0503,Osaka Nanko Central Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0504,Sanadayama Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0505,Esaka Tennis Center,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0506,Shinboku Ryokuchi Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0507,Kyuhoji Ryokuchi Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0508,Hattori Ryokuchi Tennis Center,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0509,Kunijima Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0510,Tennis Club Ko-Su-Pa Kanzakigawa,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0511,Nakanoshima Nishi Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0512,Morita Tennis Court Utsubo,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0513,Nakajima Tennis Courts,Osaka,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0514,Jamwon Hangang Park Tennis Courts,Seoul,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0515,Ttukseom Hangang Park Tennis Courts,Seoul,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0516,Ichon Hangang Park Tennis Courts,Seoul,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0517,Yeouido Hangang Park Tennis Courts,Seoul,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0518,Mangwon Hangang Park Tennis Courts,Seoul,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0519,Jangchung Tennis Courts,Seoul,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0520,Tianmu Sports Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0521,Taipei Tennis Court,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0522,Guanshan Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0523,Zhongzheng Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0524,Huazhong Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0525,Shuangyuan Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0526,Yanping Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0527,Meiti Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0528,Guting Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0529,Bailing Riverside Park Tennis Court A,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0530,Fuhe Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0531,Daonan Riverside Park Tennis Courts,Taipei,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0532,Emirates Tennis Academy - Safa Park,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0533,Emirates Tennis Academy - Al Barsha Pond Park,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0534,Emirates Tennis Academy - Al Nahda Pond Park,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0535,ISD ProStyle Tennis,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0536,Tennis 360 World Trade Centre Courts,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0537,Tennis 360 Meydan Courts,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0538,Al Nasr Leisureland Tennis Courts,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0539,Athletic Kings Tennis Club,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0540,Rackets Academy Indoor Tennis,Dubai,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0541,Singapore Cricket Club Tennis Courts,Singapore,directory,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0542,Singapore Island Country Club Tennis Courts,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0543,Tanglin Club Tennis Courts,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0544,Hollandse Club Tennis Courts,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0545,Chinese Swimming Club Tennis Courts,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0546,The American Club Singapore Tennis Courts,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
+ct0547,British Club Singapore Tennis Courts,Singapore,review,generic-fallback,,,Source a venue-matched CC0 or CC BY(-SA) photo with proper attribution
