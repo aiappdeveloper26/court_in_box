@@ -1,0 +1,550 @@
+﻿id,name,city,access,record_verified,photo_type,photo_credit,photo_license,source
+ct001,Victoria Park Tennis Court,Hong Kong,public,directory,LICENSED_SPECIFIC_VENUE,Nath87,CC BY-SA 4.0,https://commons.wikimedia.org/wiki/File:Victoria_Park_Tennis_and_Swimming.jpg
+ct002,Victoria Park Centre Court,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct003,Hong Kong Tennis Centre,Hong Kong,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct004,Causeway Bay Sports Ground Tennis Courts,Hong Kong,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct005,Bowen Road Tennis Court,Hong Kong,public,confirmed,LICENSED_SPECIFIC_VENUE,Cypp0847,CC BY-SA 4.0,https://commons.wikimedia.org/wiki/File:Bowen_Road_Tennis_Court.jpg
+ct006,Chai Wan Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct007,Quarry Bay Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct008,Sai Wan Ho Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct009,Aberdeen Tennis and Squash Centre,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/
+ct010,Junction Road Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct011,Tin Kwong Road Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct012,Hoi Sham Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct013,Ho Man Tin Sports Centre Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct014,Morse Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct015,Choi Hung Road Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct016,Ma Chai Hang Sports Centre Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct017,Jordan Valley Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/
+ct018,Hong Ning Road Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/
+ct019,Ping Shek Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/
+ct020,Sin Fat Road Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tennishk.org/en/community/community-program/lcsd-community-sports-club/
+ct021,Shek Kip Mei Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct022,Lai Chi Kok Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct023,Tung Chau Street Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct024,King’s Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct025,Cherry Street Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct026,Siu Lek Yuen Road Playground Tennis Courts,Hong Kong,public,directory,LICENSED_SPECIFIC_VENUE,WiNG,CC BY 3.0,https://commons.wikimedia.org/wiki/File:HK_SLYPlayground_Tennis_Court.jpg
+ct027,Yuen Wo Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct028,Tsang Tai Uk Recreation Ground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct029,Hin Tin Playground Tennis Courts,Hong Kong,public,directory,LICENSED_SPECIFIC_VENUE,Wing1990hk,CC BY 3.0,https://commons.wikimedia.org/wiki/File:Hin_Tin_Playground_Tennis_Court_201307.jpg
+ct030,Po Tsui Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct031,Sai Kung Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct032,North District Sports Ground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct033,Tai Po Sports Ground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct034,Wan Tau Kok Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct035,Tsing Yi Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct036,Kwai Shing Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct037,Tsuen Wan Riviera Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct038,Tsuen King Circuit Playground Tennis Courts,Hong Kong,public,directory,LICENSED_SPECIFIC_VENUE,Prosperity Horizons,CC BY-SA 4.0,https://commons.wikimedia.org/wiki/File:Tsuen_King_Circuit_Playground_Tennis_Court.jpg
+ct039,Shing Mun Valley Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct040,Tsuen Wan Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct041,Tsing Sin Playground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct042,Tang Shiu Kin Sports Ground Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct043,Wu Shan Tennis Courts,Hong Kong,public,directory,LICENSED_SPECIFIC_VENUE,kaartcam,CC BY-SA 4.0,https://commons.wikimedia.org/wiki/File:Wu_Shan_Tennis_Courts_-_Mapillary_(380284526580865).jpg
+ct044,Sai Ching Street Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct045,Cheung Chau Park Tennis Courts,Hong Kong,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=42
+ct046,Hyde Park Tennis Courts,London,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sportsandleisure.royalparks.org.uk/the-courts/tennis
+ct047,The Regent’s Park Tennis Centre,London,public,review,LICENSED_SPECIFIC_VENUE,Stephen McKay,CC BY-SA 2.0,https://commons.wikimedia.org/wiki/File:Regent's_Park_Tennis_Centre_-_geograph.org.uk_-_1238968.jpg
+ct048,Greenwich Park Tennis Courts,London,public,review,LICENSED_SPECIFIC_VENUE,Stephen Craven,CC BY-SA 2.0,https://commons.wikimedia.org/wiki/File:Greenwich_Park%2C_tennis_courts_-_geograph.org.uk_-_1540519.jpg
+ct049,Wimbledon Park Tennis Courts,London,public,review,LICENSED_SPECIFIC_VENUE,David Howard,CC BY-SA 2.0,https://commons.wikimedia.org/wiki/File:Tennis_courts_on_Wimbledon_Park_-_geograph.org.uk_-_3435489.jpg
+ct050,Islington Tennis Centre,London,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lta.org.uk/play/tennis-near-you/london/
+ct051,Central Park Tennis Center,New York,public,review,LICENSED_SPECIFIC_VENUE,Clyde Charles Brown,CC BY-SA 4.0,https://commons.wikimedia.org/wiki/File:Central_Park_Tennis_Center%2C_Manhattan%2C_New_York%2C_US.jpg
+ct052,Riverside Park 119th Street Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.nycgovparks.org/facilities/tennis
+ct053,Denny Farrell Riverbank State Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://staffportal.parks.ny.gov/parks/riverbank/amenities.aspx
+ct054,Fort Washington Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.manhattantennisassociation.com/court-finder/
+ct055,Fort Greene Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.nycgovparks.org/facilities/tennis
+ct056,Ariake Tennis Park,Tokyo,public,review,LICENSED_SPECIFIC_VENUE,Ryoma35988,CC BY-SA 3.0,https://commons.wikimedia.org/wiki/File:Ariake_Tennis_Park.jpg
+ct057,Komazawa Olympic Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sports-tokyo-info.metro.tokyo.lg.jp/english/sportsClass.html
+ct058,Kallang Tennis Hub,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.thekallang.com.sg/en/plan-your-visit/venues-and-amenities/kallang-tennis-hub.html
+ct059,Kallang Tennis Centre,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.activesgcircle.gov.sg/facilities/tennis
+ct060,Yio Chu Kang Tennis Centre,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.activesgcircle.gov.sg/facilities/tennis
+ct061,Choa Chu Kang Tennis Centre,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.activesgcircle.gov.sg/facilities/tennis
+ct062,Heartbeat @ Bedok ActiveSG Tennis Centre,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.activesgcircle.gov.sg/facilities/tennis
+ct063,Jurong West Tennis Centre,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.activesgcircle.gov.sg/facilities/tennis
+ct064,Burghley Tennis Centre,Singapore,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.activesgcircle.gov.sg/facilities/tennis
+ct065,Tennis Suzanne Lenglen,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.paris.fr/pages/les-tennis-2136/
+ct066,Tennis La Faluère,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.paris.fr/pages/les-tennis-2136/
+ct067,Tennis Léo Lagrange,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.paris.fr/pages/les-tennis-2136/
+ct068,Tennis Edouard Pailleron,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.paris.fr/pages/jouez-au-tennis-et-au-padel-toute-l-annee-a-paris-et-dans-sa-proche-banlieue-36234
+ct069,Tennis Moureu Baudricourt,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://mairie13.paris.fr/pages/equipements-sportifs-municipaux-10708
+ct070,Tennis Dunois,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://mairie13.paris.fr/pages/equipements-sportifs-municipaux-10708
+ct071,Tennis Reims,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.paris.fr/pages/les-tennis-2136/
+ct072,Tennis Courcelles,Paris,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.paris.fr/pages/les-tennis-2136/
+ct073,Prince Alfred Park Tennis Courts,Sydney,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct074,Rushcutters Bay Park Tennis Courts,Sydney,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct075,Alexandria Park Tennis Courts,Sydney,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct076,Beaconsfield Park Tennis Courts,Sydney,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct077,Turruwul Park Tennis Courts,Sydney,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct078,St James Park Tennis Courts,Sydney,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct079,Carlton Gardens Tennis Club,Melbourne,club,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct080,Tennis World Melbourne Park,Melbourne,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tennisworld.net.au/
+ct081,Stanley Park Tennis Courts,Vancouver,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct082,Kitsilano Beach Park Tennis Courts,Vancouver,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct083,Queen Elizabeth Park Tennis Courts,Vancouver,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct084,Riverside Tennis Courts,Los Angeles,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://recreation.parks.lacity.gov/sports/tennis/facility/riverside
+ct085,Vermont Canyon Tennis Courts,Los Angeles,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct086,Poinsettia Tennis Courts,Los Angeles,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct087,Cheviot Hills Tennis Courts,Los Angeles,public,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct088,Agincourt Park Tennis Courts,Toronto,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct089,Centre Municipal Tennis Vall Hebron,Barcelona,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.courts.tennis/barcelona/centre-municipal-tennis-vall-hebron
+ct090,Club Natació Montjuïc Tennis Courts,Barcelona,club,review,AI_GENERATED_GENERIC_SAMPLE,,,
+ct0091,Hong Kong Football Club Tennis Courts,Hong Kong,private,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.hkfc.com/facilities/tennis-court/
+ct0092,Ladies' Recreation Club Tennis Courts,Hong Kong,private,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lrc.com.hk/fitness-and-wellness/sports/tennis
+ct0093,Craigengower Cricket Club Tennis Courts,Hong Kong,private,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://ccc1894.com/facility/tennis-courts/
+ct0094,Kowloon Cricket Club Tennis Courts,Hong Kong,private,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://kcc.org.hk/sports-recreation/tennis/
+ct0095,United Services Recreation Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.usrc.org.hk/tennis.html
+ct0096,Aberdeen Marina Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://aberdeenmarinaclub.com/sport_detail.php?id=143125960
+ct0097,Pacific Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.pacificclub.com.hk/sports-recreations
+ct0098,Club de Recreio Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://clubderecreio.org/tennis
+ct0099,Kowloon Tong Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.kowloontongclub.org/sports.aspx
+ct0100,Yau Yat Chuen Garden City Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://yycclub.org/recreation-facilities/
+ct0101,Hong Kong Country Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/sfad/2025/organizations/facilities.html
+ct0102,Kowloon Bowling Green Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/sfad/2025/organizations/facilities.html
+ct0103,Clearwater Bay Golf & Country Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.cwbgolf.org/member/sports-recreation/
+ct0104,Hong Kong Golf & Tennis Academy Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.hkgta.com/
+ct0105,The Country Club at Hong Lok Yuen Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.cchly.com/sports-recreation/
+ct0106,Gold Coast Yacht & Country Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://web.sino-hotels.com/en/hk/gcycc/facilities
+ct0107,HKJC Happy Valley Old Clubhouse Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://members.hkjc.com/hub/en-US/recreation/sport-complex-tennis-courts
+ct0108,HKJC Happy Valley New Clubhouse Rooftop Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://member.hkjc.com/member/english/about-membership/membership-cards-and-signing-rights/signing-rights-for-immediate-family.aspx
+ct0109,HKJC Beas River Country Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://member.hkjc.com/member/english/about-membership/membership-cards-and-signing-rights/signing-rights-for-immediate-family.aspx
+ct0110,Indian Recreation Club Tennis Courts,Hong Kong,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lcsd.gov.hk/en/sfad/2026/support/recreation/facilities/aug02.html
+ct0111,Alamo Square Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0112,Alice Chalmers Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0113,Alice Marble Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0114,Alta Plaza Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0115,Aptos Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0116,Argonne Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0117,Balboa Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0118,Buena Vista Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0119,Cabrillo Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0120,Cayuga Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0121,Coronado Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0122,Crocker Amazon Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0123,Dolores Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0124,Douglass Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0125,DuPont Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0126,Eureka Valley Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0127,Excelsior Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0128,Fulton Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0129,George Christopher Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0130,Glen Canyon Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0131,Golden Gate Heights Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0132,Goldman Tennis Center,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0133,Grattan Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0134,Hamilton Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0135,Hayes Valley Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0136,Helen Wills Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0137,Holly Park Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0138,J. P. Murphy Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0139,Jackson Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0140,James Rolph Jr. Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0141,Joe DiMaggio Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0142,Junipero Serra Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0143,Lafayette Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0144,Laurel Hill Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0145,Margaret S. Hayward Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0146,McCoppin Square Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0147,McLaren Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0148,Merced Heights Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0149,Minnie & Lovie Ward Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0150,Miraloma Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0151,Mission Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0152,Mission Creek Park Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0153,Moscone Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0154,Mountain Lake Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0155,Noe Valley Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0156,Palega Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0157,Parkside Square Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0158,Peixotto (15th St) Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0159,Potrero Hill Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0160,Presidio Wall Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0161,Richmond Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0162,Rochambeau Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0163,Rossi Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0164,Silver Terrace Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0165,South Sunset Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0166,St. Mary's Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0167,States Street (Flint St) Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0168,Stern Grove Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0169,Sunnyside Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0170,Sunset Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0171,Upper Noe Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0172,West Portal Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0173,West Sunset Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0174,Youngblood Coleman Tennis Courts,San Francisco,public,confirmed,AI_GENERATED_GENERIC_SAMPLE,,,https://www.sfrecpark.org/1446/Tennis-Court-Directory
+ct0175,Abbott Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0176,Ada Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0177,Amundsen Tennis,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0178,Anderson Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0179,Armour Square Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0180,Athletic Field Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0181,Avalon Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0182,Bell Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0183,Bessemer Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0184,Beverly Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0185,Blackhawk Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0186,Bogan Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0187,Bradley Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0188,Brainerd Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0189,Brands Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0190,Brooks Tennis,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0191,Brown Memorial Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0192,California Tennis Court - Outdoor,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0193,Calumet Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0194,Chase Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0195,Chopin Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0196,Clarendon Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0197,Columbus Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0198,Cooper Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0199,Cornell Square Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0200,Cosme Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0201,Cragin Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0202,Crescent Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0203,Douglass Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0204,Dunham Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0205,Ellis Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0206,Emmerson Tennis,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0207,Euclid Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0208,Eugene Field Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0209,Fernwood Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0210,Foster Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0211,Fuller Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0212,Gage Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0213,Garfield Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0214,Gompers Park Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0215,Grand Crossing Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0216,Graver Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0217,Green Briar Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0218,Hale Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0219,Hamilton Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0220,Hamlin Tennis Court East,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0221,Harrison Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0222,Hollywood Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0223,Horner Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0224,Humboldt Tennis,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0225,Kosciuszko Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0226,La Follette Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0227,Lake Shore Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0228,LeClaire-Hearst Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0229,Legion Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0230,Lerner Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0231,Lincoln Park Waveland Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0232,Lindblom Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0233,Loyola Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0234,Maggie Daley Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0235,Mahalia Jackson Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0236,Mandrake Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0237,Mann Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0238,Marquette Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0239,Mather Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0240,McFetridge Tennis Court - Indoor,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0241,McGuane Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0242,McKinley Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0243,Metcalfe Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0244,Minuteman Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0245,Mt. Greenwood Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0246,Norwood Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0247,O'Hallaren Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0248,Ogden Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0249,Olympia Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0250,Oriole Tennis,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0251,Ridge Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0252,Riis Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0253,River Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0254,Robichaux Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0255,Rogers Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0256,Roosevelt Park Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0257,Rosedale Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0258,Russell Square Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0259,Rutherford Sayre Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0260,Sauganash Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0261,Shabbona Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0262,Sheridan Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0263,Sherman Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0264,Smith Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0265,Touhy Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0266,Trumbull Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0267,Tuley Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0268,Union Tennis Courts,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0269,Vittum Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0270,Warren Park Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0271,Washington Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0272,Welles Tennis Court,Chicago,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.chicagoparkdistrict.com/facilities/tennis-courts
+ct0273,Alki Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0274,Amy Yee Tennis Center,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0275,Beacon Hill Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0276,Bitter Lake Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0277,Brighton Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0278,Bryant Neighborhood Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0279,Bobby Morris at Cal Anderson Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0280,Cleveland Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0281,David Rodgers Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0282,Dearborn Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0283,Delridge Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0284,Discovery Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0285,Froula Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0286,Garfield Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0287,Georgetown Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0288,Gilman Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0289,Green Lake Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0290,Hiawatha Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0291,Highland Park Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0292,Hutchinson Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0293,Jefferson Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0294,Kinnear Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0295,Laurelhurst Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0296,Leschi Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0297,Lowman Beach Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0298,Madison Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0299,Madrona Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0300,Magnolia Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0301,Magnolia Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0302,Meadowbrook Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0303,Miller Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0304,Montlake Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0305,Mount Baker Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0306,Observatory Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0307,Rainier Beach Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0308,Rainier Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0309,Ravenna Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0310,Ravenna-Eckstein Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0311,Riverview Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0312,Sam Smith Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0313,Rogers Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0314,Seward Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0315,Solstice Park Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0316,Soundview Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0317,South Park Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0318,University Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0319,Victory Heights Playground Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0320,Volunteer Park Lower Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0321,Volunteer Park Upper Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0322,Wallingford Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0323,Walt Hundley Playfield Tennis Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0324,Woodland Park Lower Courts,Seattle,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.seattle.gov/parks/reserve/tennis-courts
+ct0325,Alamosa Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0326,Albion Gardens Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0327,Amesbury Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0328,Ancaster Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0329,Angela James Arena & Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0330,Antibes Community Centre Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0331,Banbury Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0332,Baycrest Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0333,Bayview Village Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0334,Beaches Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0335,Beaumonde Heights Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0336,Bellbury Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0337,Confederation Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0338,Cosburn Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0339,Cresthaven Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0340,Cummer Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0341,Dennis Flynn Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0342,Dovercourt Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0343,Dunlace Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0344,Earlscourt Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0345,East Mall Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0346,Eglinton Flats Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0347,Eglinton Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0348,Elie Wiesel Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0349,High Park Public Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0350,Howard Park Tennis Club at High Park,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0351,Hillcrest Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0352,Howard Talbot Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0353,Hullmar Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0354,Humber Valley Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0355,Indian Line Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0356,Kingsview Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0357,Kirkwood Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0358,L'Amoreaux Tennis Centre,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0359,Laburnham Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0360,Lakeshore Boulevard Parklands Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0361,Lambton - Kingsway Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0362,Lanyard Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0363,Lawrence Park Ravine Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0364,Leaside Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0365,Maple Leaf Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0366,Martingrove Gardens Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0367,Maryland Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0368,Maryvale Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0369,McDairmid Woods Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0370,McGregor Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0371,Rockford Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0372,Rosedale Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0373,Rosethorn Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0374,Rotary Peace Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0375,Royal Crest Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0376,Roywood Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0377,Ruddington Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0378,Runnymede Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0379,Scarboro Crescent Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0380,Scarlett Mills Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0381,Trinity Bellwoods Park Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0382,Viewmount Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0383,Wanless Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0384,Wedgewood Park - Etobicoke Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0385,Wedgewood Park - North York Tennis Courts,Toronto,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0386,West Deane Park Tennis Courts,Toronto,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html
+ct0387,Andy Livingstone Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0388,David Lam Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0389,Memorial West Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0390,Charleson Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0391,Granville Loop Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0392,Granville Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0393,Sutcliffe Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0394,Garden Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0395,McSpadden Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0396,Pandora Park Tennis Courts,Vancouver,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vancouver.ca/parks-recreation-culture/tennis.aspx
+ct0397,Hudson River Park Pier 40 Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0398,USTA Billie Jean King National Tennis Center,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0399,Fort Washington Park Upper Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0400,Inwood Hill Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0401,Astoria Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0402,Flushing Meadows Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0403,Forest Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0404,Highland Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0405,Red Hook Recreation Area Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0406,Van Cortlandt Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0407,Brian Watkins Tennis Center,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0408,Frederick Johnson Playground Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0409,Howard Bennett Playground Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0410,Prospect Park Tennis Center,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0411,McCarren Tennis Center,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0412,Cunningham Tennis Center,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0413,Alley Pond Tennis Center,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0414,Kissena Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0415,Pelham Bay Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0416,St. Mary's Park Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0417,Cary Leeds Center for Tennis & Learning,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0418,Stadium Tennis Center at Mill Pond Park,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0419,Sportime Randall's Island Tennis Courts,New York,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0420,Riverside Park 96th Street Tennis Courts,New York,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0421,Roosevelt Island Racquet Club,New York,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0422,Sutton East Tennis Club,New York,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://nyctenniscourts.com/courts/outdoor
+ct0423,Archbishop's Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0424,Brockwell Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0425,Clapham Common Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0426,Hillside Gardens Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0427,Kennington Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0428,Larkhall Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0429,Ruskin Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0430,Streatham Vale Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0431,Streatham Common Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0432,Vauxhall Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0433,Myatt's Fields Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts
+ct0434,Finsbury Park Tennis Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lta.org.uk/play/tennis-near-you/london/
+ct0435,Westway Community Indoor Tennis Centre,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lta.org.uk/play/tennis-near-you/london/
+ct0436,Wimbledon Park Outdoor Courts,London,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.lta.org.uk/play/tennis-near-you/london/
+ct0437,Tennis Henry de Montherlant,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0438,Tennis La Plaine,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0439,Tennis Croix-Nivert,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0440,Tennis Charles Rigoulot,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0441,Tennis Sablonnière,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0442,Tennis René et André Mourlon,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0443,Tennis Atlantique,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0444,Tennis Poliveau,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0445,Tennis Thiéré,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0446,Tennis Alain Mimoun,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0447,Tennis Aurelle de Paladines,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0448,Tennis Max Rousié,Paris,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171
+ct0449,Algester State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0450,Ascot State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0451,Ashgrove State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0452,Bardon State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0453,Bedford Playground Park Tennis Courts,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0454,Benbek Circuit Park Tennis Courts,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0455,Hamilton State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0456,Heath Park - Churchie Tennis Centre,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0457,Hendra State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0458,Hilder Road State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0459,Homestead Park Tennis Courts,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0460,Jamboree Heights State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0461,Kalinga Park Tennis Courts,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0462,Kedron State High School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0463,Kenmore State High School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0464,Kenmore State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0465,New Farm Park Tennis Courts,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0466,Oakleigh State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0467,Payne Road State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0468,Rainworth State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0469,Runcorn State Primary School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0470,Salisbury State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0471,Sandgate District Youth Tennis Association,Brisbane,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0472,Shaw Park Tennis Centre,Brisbane,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0473,Sunnybank Hills State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0474,The Gap State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0475,Toowong State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0476,Wellers Hill State School Tennis Courts,Brisbane,unknown,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0477,Wynnum District Lawn Tennis Association,Brisbane,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0478,Yeronga Tennis Club,Brisbane,club,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations
+ct0479,Oi Wharf Central Seaside Park Sports Forest,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0480,Tamagawa Green Plaza Tennis Court,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0481,Shimomaruko Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0482,Heiwa no Mori Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0483,Yashio-Kita Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0484,Shinagawa Ward Citizens' Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0485,Setagaya Tamagawa Nogemachi Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0486,Kiba Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0487,Kita Ward Central Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0488,Okudo Sports Center Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0489,Hikarigaoka Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0490,Ukima Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0491,Higashi-Ayase Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0492,Ojima-Komatsugawa Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0493,Koganei Park Tennis Courts,Tokyo,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://www.tokyo-park.or.jp/park/koganei/facility/
+ct0494,Sarue Onshi Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0495,Shioiri Park Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0496,Taito Riverside Sports Center Tennis Courts,Tokyo,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0497,Takanawa Tennis Center,Tokyo,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0498,Tokyo Lawn Tennis Club,Tokyo,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=tokyo
+ct0499,Utsubo Tennis Center,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0500,Marine Tennis Park Kitamura,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0501,Nagai Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0502,Tsurumi Ryokuchi Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0503,Osaka Nanko Central Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0504,Sanadayama Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0505,Esaka Tennis Center,Osaka,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0506,Shinboku Ryokuchi Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0507,Kyuhoji Ryokuchi Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0508,Hattori Ryokuchi Tennis Center,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0509,Kunijima Tennis Courts,Osaka,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0510,Tennis Club Ko-Su-Pa Kanzakigawa,Osaka,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0511,Nakanoshima Nishi Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0512,Morita Tennis Court Utsubo,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0513,Nakajima Tennis Courts,Osaka,public,review,AI_GENERATED_GENERIC_SAMPLE,,,https://tennislocal.app/japan?region=osaka
+ct0514,Jamwon Hangang Park Tennis Courts,Seoul,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/
+ct0515,Ttukseom Hangang Park Tennis Courts,Seoul,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/
+ct0516,Ichon Hangang Park Tennis Courts,Seoul,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/
+ct0517,Yeouido Hangang Park Tennis Courts,Seoul,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/
+ct0518,Mangwon Hangang Park Tennis Courts,Seoul,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/
+ct0519,Jangchung Tennis Courts,Seoul,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/
+ct0520,Tianmu Sports Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=342
+ct0521,Taipei Tennis Court,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=886
+ct0522,Guanshan Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=687
+ct0523,Zhongzheng Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=266
+ct0524,Huazhong Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=239
+ct0525,Shuangyuan Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=210
+ct0526,Yanping Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=324
+ct0527,Meiti Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=174
+ct0528,Guting Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=305
+ct0529,Bailing Riverside Park Tennis Court A,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=1060
+ct0530,Fuhe Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=352
+ct0531,Daonan Riverside Park Tennis Courts,Taipei,public,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://vbs.sports.taipei/venues/?K=425
+ct0532,Emirates Tennis Academy - Safa Park,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0533,Emirates Tennis Academy - Al Barsha Pond Park,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0534,Emirates Tennis Academy - Al Nahda Pond Park,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0535,ISD ProStyle Tennis,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0536,Tennis 360 World Trade Centre Courts,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0537,Tennis 360 Meydan Courts,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0538,Al Nasr Leisureland Tennis Courts,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0539,Athletic Kings Tennis Club,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0540,Rackets Academy Indoor Tennis,Dubai,club,review,AI_GENERATED_GENERIC_SAMPLE,,,https://www.visitdubai.com/en/articles/tennis-in-dubai
+ct0541,Singapore Cricket Club Tennis Courts,Singapore,private,directory,AI_GENERATED_GENERIC_SAMPLE,,,https://scc.org.sg/sport_facilities/tennis-courts/
+ct0542,Singapore Island Country Club Tennis Courts,Singapore,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sglessons.com/tennis/clubs/
+ct0543,Tanglin Club Tennis Courts,Singapore,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sglessons.com/tennis/clubs/
+ct0544,Hollandse Club Tennis Courts,Singapore,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sglessons.com/tennis/clubs/
+ct0545,Chinese Swimming Club Tennis Courts,Singapore,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sglessons.com/tennis/clubs/
+ct0546,The American Club Singapore Tennis Courts,Singapore,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sglessons.com/tennis/clubs/
+ct0547,British Club Singapore Tennis Courts,Singapore,private,review,AI_GENERATED_GENERIC_SAMPLE,,,https://sglessons.com/tennis/clubs/
+ct0548,Chinese Recreation Club Tennis Courts,Hong Kong,private,confirmed,LICENSED_SPECIFIC_VENUE,Wpcpey,CC BY-SA 4.0,https://commons.wikimedia.org/wiki/File:HK_Chinese_Recreation_Club_2018.jpg
+ct0549,SCAA King’s Park Tennis Centre,Hong Kong,private,confirmed,LICENSED_SPECIFIC_VENUE,Chong Fat,CC BY-SA 3.0,https://commons.wikimedia.org/wiki/File:HK_SCAA_KingsParkTennisCentre_TennisCourts.JPG
