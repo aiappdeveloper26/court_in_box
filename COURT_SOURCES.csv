@@ -1,0 +1,548 @@
+﻿id,name,city,country,district,access,courtCount,floodlights,detailsStatus,detailsSource,detailsCheckedAt
+ct001,Victoria Park Tennis Court,Hong Kong,Hong Kong SAR,Wan Chai,public,13,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct002,Victoria Park Centre Court,Hong Kong,Hong Kong SAR,Wan Chai,public,1,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct003,Hong Kong Tennis Centre,Hong Kong,Hong Kong SAR,Wan Chai,public,17,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct004,Causeway Bay Sports Ground Tennis Courts,Hong Kong,Hong Kong SAR,Wan Chai,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct005,Bowen Road Tennis Court,Hong Kong,Hong Kong SAR,Wan Chai,public,4,no,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct006,Chai Wan Park Tennis Courts,Hong Kong,Hong Kong SAR,Eastern,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct007,Quarry Bay Park Tennis Courts,Hong Kong,Hong Kong SAR,Eastern,public,8,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct008,Sai Wan Ho Playground Tennis Courts,Hong Kong,Hong Kong SAR,Eastern,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct009,Aberdeen Tennis and Squash Centre,Hong Kong,Hong Kong SAR,Southern,public,8,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct010,Junction Road Park Tennis Courts,Hong Kong,Hong Kong SAR,Kowloon City,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct011,Tin Kwong Road Tennis Courts,Hong Kong,Hong Kong SAR,Kowloon City,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct012,Hoi Sham Park Tennis Courts,Hong Kong,Hong Kong SAR,Kowloon City,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct013,Ho Man Tin Sports Centre Tennis Courts,Hong Kong,Hong Kong SAR,Kowloon City,public,2,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct014,Morse Park Tennis Courts,Hong Kong,Hong Kong SAR,Wong Tai Sin,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct015,Choi Hung Road Playground Tennis Courts,Hong Kong,Hong Kong SAR,Wong Tai Sin,public,5,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct016,Ma Chai Hang Sports Centre Tennis Courts,Hong Kong,Hong Kong SAR,Wong Tai Sin,public,2,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct017,Jordan Valley Playground Tennis Courts,Hong Kong,Hong Kong SAR,Kwun Tong,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct018,Hong Ning Road Park Tennis Courts,Hong Kong,Hong Kong SAR,Kwun Tong,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct019,Ping Shek Playground Tennis Courts,Hong Kong,Hong Kong SAR,Kwun Tong,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct020,Sin Fat Road Tennis Courts,Hong Kong,Hong Kong SAR,Kwun Tong,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct021,Shek Kip Mei Park Tennis Courts,Hong Kong,Hong Kong SAR,Sham Shui Po,public,8,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct022,Lai Chi Kok Park Tennis Courts,Hong Kong,Hong Kong SAR,Sham Shui Po,public,5,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct023,Tung Chau Street Park Tennis Courts,Hong Kong,Hong Kong SAR,Sham Shui Po,public,5,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct024,King’s Park Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct025,Cherry Street Park Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct026,Siu Lek Yuen Road Playground Tennis Courts,Hong Kong,Hong Kong SAR,Sha Tin,public,4,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct027,Yuen Wo Playground Tennis Courts,Hong Kong,Hong Kong SAR,Sha Tin,public,6,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct028,Tsang Tai Uk Recreation Ground Tennis Courts,Hong Kong,Hong Kong SAR,Sha Tin,public,6,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct029,Hin Tin Playground Tennis Courts,Hong Kong,Hong Kong SAR,Sha Tin,public,4,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct030,Po Tsui Park Tennis Courts,Hong Kong,Hong Kong SAR,Sai Kung,public,6,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct031,Sai Kung Tennis Courts,Hong Kong,Hong Kong SAR,Sai Kung,public,2,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct032,North District Sports Ground Tennis Courts,Hong Kong,Hong Kong SAR,North,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct033,Tai Po Sports Ground Tennis Courts,Hong Kong,Hong Kong SAR,Tai Po,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct034,Wan Tau Kok Playground Tennis Courts,Hong Kong,Hong Kong SAR,Tai Po,public,3,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct035,Tsing Yi Park Tennis Courts,Hong Kong,Hong Kong SAR,Kwai Tsing,public,7,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct036,Kwai Shing Playground Tennis Courts,Hong Kong,Hong Kong SAR,Kwai Tsing,public,3,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct037,Tsuen Wan Riviera Park Tennis Courts,Hong Kong,Hong Kong SAR,Tsuen Wan,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct038,Tsuen King Circuit Playground Tennis Courts,Hong Kong,Hong Kong SAR,Tsuen Wan,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct039,Shing Mun Valley Park Tennis Courts,Hong Kong,Hong Kong SAR,Tsuen Wan,public,2,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct040,Tsuen Wan Park Tennis Courts,Hong Kong,Hong Kong SAR,Tsuen Wan,public,4,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct041,Tsing Sin Playground Tennis Courts,Hong Kong,Hong Kong SAR,Tuen Mun,public,4,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct042,Tang Shiu Kin Sports Ground Tennis Courts,Hong Kong,Hong Kong SAR,Tuen Mun,public,6,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct043,Wu Shan Tennis Courts,Hong Kong,Hong Kong SAR,Tuen Mun,public,3,yes,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct044,Sai Ching Street Tennis Courts,Hong Kong,Hong Kong SAR,Yuen Long,public,6,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct045,Cheung Chau Park Tennis Courts,Hong Kong,Hong Kong SAR,Islands,public,3,unknown,official-directory,https://www.lcsd.gov.hk/clpss/en/webApp/Facility/Details.do?ftid=42,2026-11-15
+ct046,Hyde Park Tennis Courts,London,United Kingdom,Westminster,public,,unknown,not-yet-verified,,
+ct047,The Regent’s Park Tennis Centre,London,United Kingdom,Camden,public,,unknown,not-yet-verified,,
+ct048,Greenwich Park Tennis Courts,London,United Kingdom,Greenwich,public,,unknown,not-yet-verified,,
+ct049,Wimbledon Park Tennis Courts,London,United Kingdom,Wandsworth,public,,unknown,not-yet-verified,,
+ct050,Islington Tennis Centre,London,United Kingdom,Islington,public,,unknown,not-yet-verified,,
+ct051,Central Park Tennis Center,New York,United States,Manhattan,public,,unknown,not-yet-verified,,
+ct052,Riverside Park 119th Street Tennis Courts,New York,United States,Manhattan,public,,unknown,not-yet-verified,,
+ct053,Denny Farrell Riverbank State Park Tennis Courts,New York,United States,Manhattan,public,,unknown,not-yet-verified,,
+ct054,Fort Washington Park Tennis Courts,New York,United States,Manhattan,public,,unknown,not-yet-verified,,
+ct055,Fort Greene Park Tennis Courts,New York,United States,Brooklyn,public,,unknown,not-yet-verified,,
+ct056,Ariake Tennis Park,Tokyo,Japan,Koto,public,,unknown,not-yet-verified,,
+ct057,Komazawa Olympic Park Tennis Courts,Tokyo,Japan,Setagaya,public,,unknown,not-yet-verified,,
+ct058,Kallang Tennis Hub,Singapore,Singapore,Kallang,public,,unknown,not-yet-verified,,
+ct059,Kallang Tennis Centre,Singapore,Singapore,Kallang,public,,unknown,not-yet-verified,,
+ct060,Yio Chu Kang Tennis Centre,Singapore,Singapore,Ang Mo Kio,public,,unknown,not-yet-verified,,
+ct061,Choa Chu Kang Tennis Centre,Singapore,Singapore,Choa Chu Kang,public,,unknown,not-yet-verified,,
+ct062,Heartbeat @ Bedok ActiveSG Tennis Centre,Singapore,Singapore,Bedok,public,,unknown,not-yet-verified,,
+ct063,Jurong West Tennis Centre,Singapore,Singapore,Jurong West,public,,unknown,not-yet-verified,,
+ct064,Burghley Tennis Centre,Singapore,Singapore,Bishan,public,,unknown,not-yet-verified,,
+ct065,Tennis Suzanne Lenglen,Paris,France,15th arrondissement,public,,unknown,not-yet-verified,,
+ct066,Tennis La Faluère,Paris,France,12th arrondissement,public,,unknown,not-yet-verified,,
+ct067,Tennis Léo Lagrange,Paris,France,12th arrondissement,public,,unknown,not-yet-verified,,
+ct068,Tennis Edouard Pailleron,Paris,France,19th arrondissement,public,,unknown,not-yet-verified,,
+ct069,Tennis Moureu Baudricourt,Paris,France,13th arrondissement,public,,unknown,not-yet-verified,,
+ct070,Tennis Dunois,Paris,France,13th arrondissement,public,,unknown,not-yet-verified,,
+ct071,Tennis Reims,Paris,France,17th arrondissement,public,,unknown,not-yet-verified,,
+ct072,Tennis Courcelles,Paris,France,17th arrondissement,public,,unknown,not-yet-verified,,
+ct073,Prince Alfred Park Tennis Courts,Sydney,Australia,Surry Hills,public,,unknown,not-yet-verified,,
+ct074,Rushcutters Bay Park Tennis Courts,Sydney,Australia,Rushcutters Bay,public,,unknown,not-yet-verified,,
+ct075,Alexandria Park Tennis Courts,Sydney,Australia,Alexandria,public,,unknown,not-yet-verified,,
+ct076,Beaconsfield Park Tennis Courts,Sydney,Australia,Beaconsfield,public,,unknown,not-yet-verified,,
+ct077,Turruwul Park Tennis Courts,Sydney,Australia,Rosebery,public,,unknown,not-yet-verified,,
+ct078,St James Park Tennis Courts,Sydney,Australia,Glebe,public,,unknown,not-yet-verified,,
+ct079,Carlton Gardens Tennis Club,Melbourne,Australia,Carlton,club,,unknown,not-yet-verified,,
+ct080,Tennis World Melbourne Park,Melbourne,Australia,Melbourne Park,public,,unknown,not-yet-verified,,
+ct081,Stanley Park Tennis Courts,Vancouver,Canada,West End,public,,unknown,not-yet-verified,,
+ct082,Kitsilano Beach Park Tennis Courts,Vancouver,Canada,Kitsilano,public,,unknown,not-yet-verified,,
+ct083,Queen Elizabeth Park Tennis Courts,Vancouver,Canada,Riley Park,public,,unknown,not-yet-verified,,
+ct084,Riverside Tennis Courts,Los Angeles,United States,Griffith Park,public,,unknown,not-yet-verified,,
+ct085,Vermont Canyon Tennis Courts,Los Angeles,United States,Griffith Park,public,,unknown,not-yet-verified,,
+ct086,Poinsettia Tennis Courts,Los Angeles,United States,West Hollywood area,public,,unknown,not-yet-verified,,
+ct087,Cheviot Hills Tennis Courts,Los Angeles,United States,West Los Angeles,public,,unknown,not-yet-verified,,
+ct088,Agincourt Park Tennis Courts,Toronto,Canada,Scarborough,public,,unknown,not-yet-verified,,
+ct089,Centre Municipal Tennis Vall Hebron,Barcelona,Spain,Horta-Guinardó,public,,unknown,not-yet-verified,,
+ct090,Club Natació Montjuïc Tennis Courts,Barcelona,Spain,Sants-Montjuïc,club,,unknown,not-yet-verified,,
+ct0091,Hong Kong Football Club Tennis Courts,Hong Kong,Hong Kong SAR,Wan Chai,private,6,yes,official-directory,https://www.hkfc.com/facilities/tennis-court/,2026-11-15
+ct0092,Ladies' Recreation Club Tennis Courts,Hong Kong,Hong Kong SAR,Central and Western,private,10,unknown,official-directory,https://www.lrc.com.hk/fitness-and-wellness/sports/tennis,2026-11-15
+ct0093,Craigengower Cricket Club Tennis Courts,Hong Kong,Hong Kong SAR,Wan Chai,private,8,unknown,official-directory,https://ccc1894.com/facility/tennis-courts/,2026-11-15
+ct0094,Kowloon Cricket Club Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,private,3,unknown,official-directory,https://kcc.org.hk/sports-recreation/tennis/,2026-11-15
+ct0095,United Services Recreation Club Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,private,4,yes,official-directory,https://www.usrc.org.hk/tennis.html,2026-11-15
+ct0096,Aberdeen Marina Club Tennis Courts,Hong Kong,Hong Kong SAR,Southern,private,7,unknown,official-directory,https://aberdeenmarinaclub.com/sport_detail.php?id=143125960,2026-11-15
+ct0097,Pacific Club Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,private,5,unknown,official-directory,https://www.pacificclub.com.hk/sports-recreations,2026-11-15
+ct0098,Club de Recreio Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,private,7,yes,official-directory,https://clubderecreio.org/tennis,2026-11-15
+ct0099,Kowloon Tong Club Tennis Courts,Hong Kong,Hong Kong SAR,Kowloon City,private,6,yes,official-directory,https://www.kowloontongclub.org/sports.aspx,2026-11-15
+ct0100,Yau Yat Chuen Garden City Club Tennis Courts,Hong Kong,Hong Kong SAR,Sham Shui Po,private,3,unknown,official-directory,https://yycclub.org/recreation-facilities/,2026-11-15
+ct0101,Hong Kong Country Club Tennis Courts,Hong Kong,Hong Kong SAR,Southern,private,,unknown,official-directory,https://www.lcsd.gov.hk/en/sfad/2025/organizations/facilities.html,2026-11-15
+ct0102,Kowloon Bowling Green Club Tennis Courts,Hong Kong,Hong Kong SAR,Yau Tsim Mong,private,,unknown,official-directory,https://www.lcsd.gov.hk/en/sfad/2025/organizations/facilities.html,2026-11-15
+ct0103,Clearwater Bay Golf & Country Club Tennis Courts,Hong Kong,Hong Kong SAR,Sai Kung,private,7,unknown,official-directory,https://www.cwbgolf.org/member/sports-recreation/,2026-11-15
+ct0104,Hong Kong Golf & Tennis Academy Tennis Courts,Hong Kong,Hong Kong SAR,Sai Kung,private,,unknown,official-directory,https://www.hkgta.com/,2026-11-15
+ct0105,The Country Club at Hong Lok Yuen Tennis Courts,Hong Kong,Hong Kong SAR,Tai Po,private,5,unknown,official-directory,https://www.cchly.com/sports-recreation/,2026-11-15
+ct0106,Gold Coast Yacht & Country Club Tennis Courts,Hong Kong,Hong Kong SAR,Tuen Mun,private,3,unknown,official-directory,https://web.sino-hotels.com/en/hk/gcycc/facilities,2026-11-15
+ct0107,HKJC Happy Valley Old Clubhouse Tennis Courts,Hong Kong,Hong Kong SAR,Wan Chai,private,8,unknown,official-directory,https://members.hkjc.com/hub/en-US/recreation/sport-complex-tennis-courts,2026-11-15
+ct0108,HKJC Happy Valley New Clubhouse Rooftop Tennis Courts,Hong Kong,Hong Kong SAR,Wan Chai,private,,unknown,official-directory,https://member.hkjc.com/member/english/about-membership/membership-cards-and-signing-rights/signing-rights-for-immediate-family.aspx,2026-11-15
+ct0109,HKJC Beas River Country Club Tennis Courts,Hong Kong,Hong Kong SAR,North,private,,unknown,official-directory,https://member.hkjc.com/member/english/about-membership/membership-cards-and-signing-rights/signing-rights-for-immediate-family.aspx,2026-11-15
+ct0110,Indian Recreation Club Tennis Courts,Hong Kong,Hong Kong SAR,Wan Chai,private,,unknown,official-directory,https://www.lcsd.gov.hk/en/sfad/2026/support/recreation/facilities/aug02.html,2026-11-15
+ct0111,Alamo Square Tennis Courts,San Francisco,United States,ZIP 94117,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0112,Alice Chalmers Tennis Courts,San Francisco,United States,ZIP 94112,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0113,Alice Marble Tennis Courts,San Francisco,United States,ZIP 94109,public,4,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0114,Alta Plaza Tennis Courts,San Francisco,United States,ZIP 94115,public,3,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0115,Aptos Tennis Courts,San Francisco,United States,ZIP 94127,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0116,Argonne Tennis Courts,San Francisco,United States,ZIP 94121,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0117,Balboa Tennis Courts,San Francisco,United States,ZIP 94112,public,4,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0118,Buena Vista Tennis Courts,San Francisco,United States,ZIP 94117,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0119,Cabrillo Tennis Courts,San Francisco,United States,ZIP 94121,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0120,Cayuga Tennis Courts,San Francisco,United States,ZIP 94112,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0121,Coronado Tennis Courts,San Francisco,United States,ZIP 94110,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0122,Crocker Amazon Tennis Courts,San Francisco,United States,ZIP 94112,public,3,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0123,Dolores Tennis Courts,San Francisco,United States,ZIP 94114,public,6,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0124,Douglass Tennis Courts,San Francisco,United States,ZIP 94114,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0125,DuPont Tennis Courts,San Francisco,United States,ZIP 94121,public,4,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0126,Eureka Valley Tennis Courts,San Francisco,United States,ZIP 94114,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0127,Excelsior Tennis Courts,San Francisco,United States,ZIP 94112,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0128,Fulton Tennis Courts,San Francisco,United States,ZIP 94121,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0129,George Christopher Tennis Courts,San Francisco,United States,ZIP 94131,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0130,Glen Canyon Tennis Courts,San Francisco,United States,ZIP 94127,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0131,Golden Gate Heights Tennis Courts,San Francisco,United States,ZIP 94116,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0132,Goldman Tennis Center,San Francisco,United States,ZIP 94122,public,16,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0133,Grattan Tennis Courts,San Francisco,United States,ZIP 94117,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0134,Hamilton Tennis Courts,San Francisco,United States,ZIP 94115,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0135,Hayes Valley Tennis Courts,San Francisco,United States,ZIP 94102,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0136,Helen Wills Tennis Courts,San Francisco,United States,ZIP 94109,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0137,Holly Park Tennis Courts,San Francisco,United States,ZIP 94110,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0138,J. P. Murphy Tennis Courts,San Francisco,United States,ZIP 94116,public,3,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0139,Jackson Tennis Courts,San Francisco,United States,ZIP 94107,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0140,James Rolph Jr. Tennis Courts,San Francisco,United States,ZIP 94110,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0141,Joe DiMaggio Tennis Courts,San Francisco,United States,ZIP 94113,public,3,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0142,Junipero Serra Tennis Courts,San Francisco,United States,ZIP 94118,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0143,Lafayette Tennis Courts,San Francisco,United States,ZIP 94132,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0144,Laurel Hill Tennis Courts,San Francisco,United States,ZIP 94132,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0145,Margaret S. Hayward Tennis Courts,San Francisco,United States,ZIP 94102,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0146,McCoppin Square Tennis Courts,San Francisco,United States,ZIP 94116,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0147,McLaren Tennis Courts,San Francisco,United States,ZIP 94134,public,6,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0148,Merced Heights Tennis Courts,San Francisco,United States,ZIP 94132,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0149,Minnie & Lovie Ward Tennis Courts,San Francisco,United States,ZIP 94131,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0150,Miraloma Tennis Courts,San Francisco,United States,ZIP 94112,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0151,Mission Tennis Courts,San Francisco,United States,ZIP 94127,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0152,Mission Creek Park Tennis Courts,San Francisco,United States,ZIP 94107,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0153,Moscone Tennis Courts,San Francisco,United States,ZIP 94113,public,4,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0154,Mountain Lake Tennis Courts,San Francisco,United States,ZIP 94123,public,4,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0155,Noe Valley Tennis Courts,San Francisco,United States,ZIP 94114,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0156,Palega Tennis Courts,San Francisco,United States,ZIP 94118,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0157,Parkside Square Tennis Courts,San Francisco,United States,ZIP 94132,public,4,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0158,Peixotto (15th St) Tennis Courts,San Francisco,United States,ZIP 94102,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0159,Potrero Hill Tennis Courts,San Francisco,United States,ZIP 94110,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0160,Presidio Wall Tennis Courts,San Francisco,United States,ZIP 94118,public,4,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0161,Richmond Tennis Courts,San Francisco,United States,ZIP 94121,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0162,Rochambeau Tennis Courts,San Francisco,United States,ZIP 94121,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0163,Rossi Tennis Courts,San Francisco,United States,ZIP 94110,public,3,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0164,Silver Terrace Tennis Courts,San Francisco,United States,ZIP 94124,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0165,South Sunset Tennis Courts,San Francisco,United States,ZIP 94116,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0166,St. Mary's Tennis Courts,San Francisco,United States,ZIP 94110,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0167,States Street (Flint St) Tennis Courts,San Francisco,United States,ZIP 94114,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0168,Stern Grove Tennis Courts,San Francisco,United States,ZIP 94132,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0169,Sunnyside Tennis Courts,San Francisco,United States,ZIP 94127,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0170,Sunset Tennis Courts,San Francisco,United States,ZIP 94122,public,2,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0171,Upper Noe Tennis Courts,San Francisco,United States,ZIP 94131,public,1,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0172,West Portal Tennis Courts,San Francisco,United States,ZIP 94127,public,1,no,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0173,West Sunset Tennis Courts,San Francisco,United States,ZIP 94116,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0174,Youngblood Coleman Tennis Courts,San Francisco,United States,ZIP 94124,public,2,yes,official-directory,https://www.sfrecpark.org/1446/Tennis-Court-Directory,2026-11-15
+ct0175,Abbott Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0176,Ada Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0177,Amundsen Tennis,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0178,Anderson Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0179,Armour Square Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0180,Athletic Field Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0181,Avalon Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0182,Bell Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0183,Bessemer Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0184,Beverly Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0185,Blackhawk Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0186,Bogan Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0187,Bradley Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0188,Brainerd Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0189,Brands Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0190,Brooks Tennis,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0191,Brown Memorial Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0192,California Tennis Court - Outdoor,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0193,Calumet Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0194,Chase Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0195,Chopin Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0196,Clarendon Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0197,Columbus Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0198,Cooper Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0199,Cornell Square Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0200,Cosme Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0201,Cragin Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0202,Crescent Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0203,Douglass Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0204,Dunham Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0205,Ellis Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0206,Emmerson Tennis,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0207,Euclid Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0208,Eugene Field Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0209,Fernwood Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0210,Foster Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0211,Fuller Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0212,Gage Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0213,Garfield Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0214,Gompers Park Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0215,Grand Crossing Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0216,Graver Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0217,Green Briar Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0218,Hale Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0219,Hamilton Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0220,Hamlin Tennis Court East,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0221,Harrison Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0222,Hollywood Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0223,Horner Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0224,Humboldt Tennis,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0225,Kosciuszko Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0226,La Follette Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0227,Lake Shore Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0228,LeClaire-Hearst Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0229,Legion Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0230,Lerner Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0231,Lincoln Park Waveland Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0232,Lindblom Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0233,Loyola Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0234,Maggie Daley Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0235,Mahalia Jackson Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0236,Mandrake Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0237,Mann Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0238,Marquette Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0239,Mather Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0240,McFetridge Tennis Court - Indoor,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0241,McGuane Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0242,McKinley Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0243,Metcalfe Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0244,Minuteman Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0245,Mt. Greenwood Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0246,Norwood Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0247,O'Hallaren Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0248,Ogden Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0249,Olympia Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0250,Oriole Tennis,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0251,Ridge Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0252,Riis Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0253,River Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0254,Robichaux Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0255,Rogers Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0256,Roosevelt Park Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0257,Rosedale Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0258,Russell Square Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0259,Rutherford Sayre Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0260,Sauganash Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0261,Shabbona Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0262,Sheridan Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0263,Sherman Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0264,Smith Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0265,Touhy Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0266,Trumbull Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0267,Tuley Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0268,Union Tennis Courts,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0269,Vittum Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0270,Warren Park Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0271,Washington Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0272,Welles Tennis Court,Chicago,United States,City parks,public,,unknown,official-directory,https://www.chicagoparkdistrict.com/facilities/tennis-courts,2026-11-15
+ct0273,Alki Playground Tennis Courts,Seattle,United States,West Seattle,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0274,Amy Yee Tennis Center,Seattle,United States,Mount Baker,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0275,Beacon Hill Playground Tennis Courts,Seattle,United States,Beacon Hill,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0276,Bitter Lake Playfield Tennis Courts,Seattle,United States,Bitter Lake,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0277,Brighton Playfield Tennis Courts,Seattle,United States,South Seattle,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0278,Bryant Neighborhood Playground Tennis Courts,Seattle,United States,Bryant,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0279,Bobby Morris at Cal Anderson Tennis Courts,Seattle,United States,Capitol Hill,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0280,Cleveland Playfield Tennis Courts,Seattle,United States,Beacon Hill,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0281,David Rodgers Park Tennis Courts,Seattle,United States,Queen Anne,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0282,Dearborn Park Tennis Courts,Seattle,United States,Rainier Valley,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0283,Delridge Playfield Tennis Courts,Seattle,United States,Delridge,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0284,Discovery Park Tennis Courts,Seattle,United States,Magnolia,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0285,Froula Playground Tennis Courts,Seattle,United States,Green Lake,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0286,Garfield Playfield Tennis Courts,Seattle,United States,Central District,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0287,Georgetown Playfield Tennis Courts,Seattle,United States,Georgetown,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0288,Gilman Playground Tennis Courts,Seattle,United States,Ballard,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0289,Green Lake Park Tennis Courts,Seattle,United States,Green Lake,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0290,Hiawatha Playfield Tennis Courts,Seattle,United States,West Seattle,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0291,Highland Park Playground Tennis Courts,Seattle,United States,West Seattle,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0292,Hutchinson Playground Tennis Courts,Seattle,United States,Rainier Valley,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0293,Jefferson Park Tennis Courts,Seattle,United States,Beacon Hill,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0294,Kinnear Park Tennis Courts,Seattle,United States,Queen Anne,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0295,Laurelhurst Playfield Tennis Courts,Seattle,United States,Laurelhurst,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0296,Leschi Park Tennis Courts,Seattle,United States,Leschi,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0297,Lowman Beach Park Tennis Courts,Seattle,United States,West Seattle,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0298,Madison Park Tennis Courts,Seattle,United States,Madison Park,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0299,Madrona Playground Tennis Courts,Seattle,United States,Madrona,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0300,Magnolia Park Tennis Courts,Seattle,United States,Magnolia,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0301,Magnolia Playfield Tennis Courts,Seattle,United States,Magnolia,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0302,Meadowbrook Playfield Tennis Courts,Seattle,United States,Meadowbrook,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0303,Miller Playfield Tennis Courts,Seattle,United States,Capitol Hill,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0304,Montlake Playfield Tennis Courts,Seattle,United States,Montlake,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0305,Mount Baker Park Tennis Courts,Seattle,United States,Mount Baker,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0306,Observatory Courts,Seattle,United States,Queen Anne,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0307,Rainier Beach Playfield Tennis Courts,Seattle,United States,Rainier Beach,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0308,Rainier Playfield Tennis Courts,Seattle,United States,Rainier Valley,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0309,Ravenna Park Tennis Courts,Seattle,United States,Ravenna,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0310,Ravenna-Eckstein Park Tennis Courts,Seattle,United States,Ravenna,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0311,Riverview Playfield Tennis Courts,Seattle,United States,West Seattle,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0312,Sam Smith Park Tennis Courts,Seattle,United States,Rainier Valley,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0313,Rogers Playfield Tennis Courts,Seattle,United States,Eastlake,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0314,Seward Park Tennis Courts,Seattle,United States,Seward Park,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0315,Solstice Park Tennis Courts,Seattle,United States,West Seattle,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0316,Soundview Playfield Tennis Courts,Seattle,United States,Ballard,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0317,South Park Playground Tennis Courts,Seattle,United States,South Park,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0318,University Playground Tennis Courts,Seattle,United States,University District,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0319,Victory Heights Playground Tennis Courts,Seattle,United States,North Seattle,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0320,Volunteer Park Lower Courts,Seattle,United States,Capitol Hill,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0321,Volunteer Park Upper Courts,Seattle,United States,Capitol Hill,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0322,Wallingford Playfield Tennis Courts,Seattle,United States,Wallingford,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0323,Walt Hundley Playfield Tennis Courts,Seattle,United States,West Seattle,public,,unknown,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0324,Woodland Park Lower Courts,Seattle,United States,Green Lake,public,,yes,official-directory,https://www.seattle.gov/parks/reserve/tennis-courts,2026-11-15
+ct0325,Alamosa Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0326,Albion Gardens Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0327,Amesbury Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0328,Ancaster Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0329,Angela James Arena & Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0330,Antibes Community Centre Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0331,Banbury Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0332,Baycrest Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0333,Bayview Village Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0334,Beaches Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0335,Beaumonde Heights Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0336,Bellbury Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0337,Confederation Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0338,Cosburn Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0339,Cresthaven Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0340,Cummer Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0341,Dennis Flynn Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0342,Dovercourt Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0343,Dunlace Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0344,Earlscourt Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0345,East Mall Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0346,Eglinton Flats Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0347,Eglinton Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0348,Elie Wiesel Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0349,High Park Public Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0350,Howard Park Tennis Club at High Park,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0351,Hillcrest Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0352,Howard Talbot Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0353,Hullmar Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0354,Humber Valley Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0355,Indian Line Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0356,Kingsview Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0357,Kirkwood Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0358,L'Amoreaux Tennis Centre,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0359,Laburnham Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0360,Lakeshore Boulevard Parklands Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0361,Lambton - Kingsway Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0362,Lanyard Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0363,Lawrence Park Ravine Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0364,Leaside Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0365,Maple Leaf Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0366,Martingrove Gardens Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0367,Maryland Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0368,Maryvale Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0369,McDairmid Woods Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0370,McGregor Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0371,Rockford Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0372,Rosedale Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0373,Rosethorn Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0374,Rotary Peace Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0375,Royal Crest Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0376,Roywood Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0377,Ruddington Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0378,Runnymede Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0379,Scarboro Crescent Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0380,Scarlett Mills Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0381,Trinity Bellwoods Park Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0382,Viewmount Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0383,Wanless Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0384,Wedgewood Park - Etobicoke Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0385,Wedgewood Park - North York Tennis Courts,Toronto,Canada,City parks,public,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0386,West Deane Park Tennis Courts,Toronto,Canada,City parks,club,,unknown,official-directory,https://www.toronto.ca/data/parks/prd/facilities/tennis/index.html,2026-11-15
+ct0387,Andy Livingstone Park Tennis Courts,Vancouver,Canada,Downtown,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0388,David Lam Park Tennis Courts,Vancouver,Canada,Downtown,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0389,Memorial West Park Tennis Courts,Vancouver,Canada,Dunbar-Southlands,public,6,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0390,Charleson Park Tennis Courts,Vancouver,Canada,Fairview,public,5,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0391,Granville Loop Park Tennis Courts,Vancouver,Canada,Fairview,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0392,Granville Park Tennis Courts,Vancouver,Canada,Fairview,public,4,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0393,Sutcliffe Park Tennis Courts,Vancouver,Canada,Fairview,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0394,Garden Park Tennis Courts,Vancouver,Canada,Grandview-Woodland,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0395,McSpadden Park Tennis Courts,Vancouver,Canada,Grandview-Woodland,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0396,Pandora Park Tennis Courts,Vancouver,Canada,Grandview-Woodland,public,2,unknown,official-directory,https://vancouver.ca/parks-recreation-culture/tennis.aspx,2026-11-15
+ct0397,Hudson River Park Pier 40 Tennis Courts,New York,United States,Manhattan,public,3,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0398,USTA Billie Jean King National Tennis Center,New York,United States,Queens,public,40,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0399,Fort Washington Park Upper Tennis Courts,New York,United States,Manhattan,public,10,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0400,Inwood Hill Park Tennis Courts,New York,United States,Manhattan,public,9,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0401,Astoria Park Tennis Courts,New York,United States,Queens,public,3,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0402,Flushing Meadows Park Tennis Courts,New York,United States,Queens,public,11,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0403,Forest Park Tennis Courts,New York,United States,Queens,public,14,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0404,Highland Park Tennis Courts,New York,United States,Brooklyn,public,18,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0405,Red Hook Recreation Area Tennis Courts,New York,United States,Brooklyn,public,6,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0406,Van Cortlandt Park Tennis Courts,New York,United States,Bronx,public,10,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0407,Brian Watkins Tennis Center,New York,United States,Manhattan,public,12,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0408,Frederick Johnson Playground Tennis Courts,New York,United States,Manhattan,public,8,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0409,Howard Bennett Playground Tennis Courts,New York,United States,Manhattan,public,6,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0410,Prospect Park Tennis Center,New York,United States,Brooklyn,public,11,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0411,McCarren Tennis Center,New York,United States,Brooklyn,public,7,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0412,Cunningham Tennis Center,New York,United States,Queens,public,10,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0413,Alley Pond Tennis Center,New York,United States,Queens,public,16,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0414,Kissena Park Tennis Courts,New York,United States,Queens,public,12,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0415,Pelham Bay Park Tennis Courts,New York,United States,Bronx,public,10,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0416,St. Mary's Park Tennis Courts,New York,United States,Bronx,public,12,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0417,Cary Leeds Center for Tennis & Learning,New York,United States,Bronx,public,12,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0418,Stadium Tennis Center at Mill Pond Park,New York,United States,Bronx,public,12,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0419,Sportime Randall's Island Tennis Courts,New York,United States,Manhattan,club,24,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0420,Riverside Park 96th Street Tennis Courts,New York,United States,Manhattan,public,10,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0421,Roosevelt Island Racquet Club,New York,United States,Manhattan,club,12,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0422,Sutton East Tennis Club,New York,United States,Manhattan,club,8,unknown,third-party-directory,https://nyctenniscourts.com/courts/outdoor,2026-11-15
+ct0423,Archbishop's Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0424,Brockwell Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0425,Clapham Common Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0426,Hillside Gardens Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0427,Kennington Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0428,Larkhall Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0429,Ruskin Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0430,Streatham Vale Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0431,Streatham Common Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0432,Vauxhall Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0433,Myatt's Fields Park Tennis Courts,London,United Kingdom,Lambeth,public,,unknown,official-directory,https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/tennis-courts,2026-11-15
+ct0434,Finsbury Park Tennis Courts,London,United Kingdom,Haringey,public,,unknown,official-directory,https://www.lta.org.uk/play/tennis-near-you/london/,2026-11-15
+ct0435,Westway Community Indoor Tennis Centre,London,United Kingdom,Kensington and Chelsea,public,,unknown,official-directory,https://www.lta.org.uk/play/tennis-near-you/london/,2026-11-15
+ct0436,Wimbledon Park Outdoor Courts,London,United Kingdom,Wandsworth,public,,unknown,official-directory,https://www.lta.org.uk/play/tennis-near-you/london/,2026-11-15
+ct0437,Tennis Henry de Montherlant,Paris,France,16th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0438,Tennis La Plaine,Paris,France,15th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0439,Tennis Croix-Nivert,Paris,France,15th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0440,Tennis Charles Rigoulot,Paris,France,15th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0441,Tennis Sablonnière,Paris,France,15th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0442,Tennis René et André Mourlon,Paris,France,15th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0443,Tennis Atlantique,Paris,France,15th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0444,Tennis Poliveau,Paris,France,5th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0445,Tennis Thiéré,Paris,France,11th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0446,Tennis Alain Mimoun,Paris,France,12th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0447,Tennis Aurelle de Paladines,Paris,France,17th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0448,Tennis Max Rousié,Paris,France,17th arrondissement,public,,unknown,official-directory,https://paris-v4.paris.fr/en/pages/play-tennis-and-padel-all-year-round-37171,2026-11-15
+ct0449,Algester State School Tennis Courts,Brisbane,Australia,Algester,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0450,Ascot State School Tennis Courts,Brisbane,Australia,Ascot,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0451,Ashgrove State School Tennis Courts,Brisbane,Australia,Ashgrove,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0452,Bardon State School Tennis Courts,Brisbane,Australia,Bardon,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0453,Bedford Playground Park Tennis Courts,Brisbane,Australia,Kangaroo Point,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0454,Benbek Circuit Park Tennis Courts,Brisbane,Australia,Sunnybank,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0455,Hamilton State School Tennis Courts,Brisbane,Australia,Hamilton,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0456,Heath Park - Churchie Tennis Centre,Brisbane,Australia,East Brisbane,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0457,Hendra State School Tennis Courts,Brisbane,Australia,Hendra,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0458,Hilder Road State School Tennis Courts,Brisbane,Australia,The Gap,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0459,Homestead Park Tennis Courts,Brisbane,Australia,Forest Lake,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0460,Jamboree Heights State School Tennis Courts,Brisbane,Australia,Jamboree Heights,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0461,Kalinga Park Tennis Courts,Brisbane,Australia,Clayfield,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0462,Kedron State High School Tennis Courts,Brisbane,Australia,Wooloowin,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0463,Kenmore State High School Tennis Courts,Brisbane,Australia,Kenmore,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0464,Kenmore State School Tennis Courts,Brisbane,Australia,Kenmore,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0465,New Farm Park Tennis Courts,Brisbane,Australia,New Farm,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0466,Oakleigh State School Tennis Courts,Brisbane,Australia,Ashgrove,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0467,Payne Road State School Tennis Courts,Brisbane,Australia,The Gap,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0468,Rainworth State School Tennis Courts,Brisbane,Australia,Bardon,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0469,Runcorn State Primary School Tennis Courts,Brisbane,Australia,Runcorn,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0470,Salisbury State School Tennis Courts,Brisbane,Australia,Salisbury,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0471,Sandgate District Youth Tennis Association,Brisbane,Australia,Deagon,club,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0472,Shaw Park Tennis Centre,Brisbane,Australia,Wavell Heights,public,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0473,Sunnybank Hills State School Tennis Courts,Brisbane,Australia,Sunnybank Hills,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0474,The Gap State School Tennis Courts,Brisbane,Australia,The Gap,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0475,Toowong State School Tennis Courts,Brisbane,Australia,Toowong,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0476,Wellers Hill State School Tennis Courts,Brisbane,Australia,Tarragindi,unknown,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0477,Wynnum District Lawn Tennis Association,Brisbane,Australia,Wynnum,club,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0478,Yeronga Tennis Club,Brisbane,Australia,Yeronga,club,,unknown,official-directory,https://www.brisbane.qld.gov.au/parks-and-recreation/parks-and-greenspaces/find-park-facilities-and-locations,2026-11-15
+ct0479,Oi Wharf Central Seaside Park Sports Forest,Tokyo,Japan,Shinagawa,public,14,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0480,Tamagawa Green Plaza Tennis Court,Tokyo,Japan,Ota,public,17,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0481,Shimomaruko Park Tennis Courts,Tokyo,Japan,Ota,public,2,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0482,Heiwa no Mori Park Tennis Courts,Tokyo,Japan,Ota,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0483,Yashio-Kita Park Tennis Courts,Tokyo,Japan,Shinagawa,public,5,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0484,Shinagawa Ward Citizens' Park Tennis Courts,Tokyo,Japan,Shinagawa,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0485,Setagaya Tamagawa Nogemachi Park Tennis Courts,Tokyo,Japan,Setagaya,public,2,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0486,Kiba Park Tennis Courts,Tokyo,Japan,Koto,public,6,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0487,Kita Ward Central Park Tennis Courts,Tokyo,Japan,Kita,public,2,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0488,Okudo Sports Center Park Tennis Courts,Tokyo,Japan,Katsushika,public,3,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0489,Hikarigaoka Park Tennis Courts,Tokyo,Japan,Nerima,public,8,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0490,Ukima Park Tennis Courts,Tokyo,Japan,Itabashi,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0491,Higashi-Ayase Park Tennis Courts,Tokyo,Japan,Adachi,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0492,Ojima-Komatsugawa Park Tennis Courts,Tokyo,Japan,Koto,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0493,Koganei Park Tennis Courts,Tokyo,Japan,Koganei,public,16,unknown,official-venue,https://www.tokyo-park.or.jp/park/koganei/facility/,2026-11-15
+ct0494,Sarue Onshi Park Tennis Courts,Tokyo,Japan,Koto,public,8,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0495,Shioiri Park Tennis Courts,Tokyo,Japan,Arakawa,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0496,Taito Riverside Sports Center Tennis Courts,Tokyo,Japan,Taito,public,5,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0497,Takanawa Tennis Center,Tokyo,Japan,Shinagawa,private,9,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0498,Tokyo Lawn Tennis Club,Tokyo,Japan,Minato,private,10,unknown,third-party-directory,https://tennislocal.app/japan?region=tokyo,2026-11-15
+ct0499,Utsubo Tennis Center,Osaka,Japan,Nishi,public,16,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0500,Marine Tennis Park Kitamura,Osaka,Japan,Taisho,public,25,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0501,Nagai Tennis Courts,Osaka,Japan,Higashisumiyoshi,public,8,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0502,Tsurumi Ryokuchi Tennis Courts,Osaka,Japan,Tsurumi,public,12,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0503,Osaka Nanko Central Tennis Courts,Osaka,Japan,Suminoe,public,13,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0504,Sanadayama Tennis Courts,Osaka,Japan,Tennoji,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0505,Esaka Tennis Center,Osaka,Japan,Suita,club,22,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0506,Shinboku Ryokuchi Tennis Courts,Osaka,Japan,Daito,public,12,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0507,Kyuhoji Ryokuchi Tennis Courts,Osaka,Japan,Yao,public,8,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0508,Hattori Ryokuchi Tennis Center,Osaka,Japan,Toyonaka,public,18,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0509,Kunijima Tennis Courts,Osaka,Japan,Higashiyodogawa,club,18,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0510,Tennis Club Ko-Su-Pa Kanzakigawa,Osaka,Japan,Yodogawa,club,18,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0511,Nakanoshima Nishi Tennis Courts,Osaka,Japan,Kita,public,2,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0512,Morita Tennis Court Utsubo,Osaka,Japan,Nishi,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0513,Nakajima Tennis Courts,Osaka,Japan,Nishiyodogawa,public,4,unknown,third-party-directory,https://tennislocal.app/japan?region=osaka,2026-11-15
+ct0514,Jamwon Hangang Park Tennis Courts,Seoul,South Korea,Seocho,public,,unknown,official-directory,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/,2026-11-15
+ct0515,Ttukseom Hangang Park Tennis Courts,Seoul,South Korea,Gwangjin,public,,unknown,official-directory,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/,2026-11-15
+ct0516,Ichon Hangang Park Tennis Courts,Seoul,South Korea,Yongsan,public,,unknown,official-directory,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/,2026-11-15
+ct0517,Yeouido Hangang Park Tennis Courts,Seoul,South Korea,Yeongdeungpo,public,,unknown,official-directory,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/,2026-11-15
+ct0518,Mangwon Hangang Park Tennis Courts,Seoul,South Korea,Mapo,public,,unknown,official-directory,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/,2026-11-15
+ct0519,Jangchung Tennis Courts,Seoul,South Korea,Jung-gu,public,,unknown,official-directory,https://english.seoul.go.kr/service/amusement/sportsleisure/6-tennis/,2026-11-15
+ct0520,Tianmu Sports Park Tennis Courts,Taipei,Taiwan,Shilin,public,6,yes,official-directory,https://vbs.sports.taipei/venues/?K=342,2026-11-15
+ct0521,Taipei Tennis Court,Taipei,Taiwan,Songshan,public,6,yes,official-venue,https://vbs.sports.taipei/venues/?K=886,2026-11-15
+ct0522,Guanshan Riverside Park Tennis Courts,Taipei,Taiwan,Songshan,public,2,yes,official-venue,https://vbs.sports.taipei/venues/?K=687,2026-11-15
+ct0523,Zhongzheng Riverside Park Tennis Courts,Taipei,Taiwan,Zhongzheng,public,,unknown,official-venue,https://vbs.sports.taipei/venues/?K=266,2026-11-15
+ct0524,Huazhong Riverside Park Tennis Courts,Taipei,Taiwan,Wanhua,public,,unknown,official-venue,https://vbs.sports.taipei/venues/?K=239,2026-11-15
+ct0525,Shuangyuan Riverside Park Tennis Courts,Taipei,Taiwan,Wanhua,public,4,unknown,official-venue,https://vbs.sports.taipei/venues/?K=210,2026-11-15
+ct0526,Yanping Riverside Park Tennis Courts,Taipei,Taiwan,Datong,public,,yes,official-venue,https://vbs.sports.taipei/venues/?K=324,2026-11-15
+ct0527,Meiti Riverside Park Tennis Courts,Taipei,Taiwan,Zhongshan,public,3,unknown,official-venue,https://vbs.sports.taipei/venues/?K=174,2026-11-15
+ct0528,Guting Riverside Park Tennis Courts,Taipei,Taiwan,Zhongzheng,public,,unknown,official-venue,https://vbs.sports.taipei/venues/?K=305,2026-11-15
+ct0529,Bailing Riverside Park Tennis Court A,Taipei,Taiwan,Shilin,public,,unknown,official-venue,https://vbs.sports.taipei/venues/?K=1060,2026-11-15
+ct0530,Fuhe Riverside Park Tennis Courts,Taipei,Taiwan,Wenshan,public,,yes,official-venue,https://vbs.sports.taipei/venues/?K=352,2026-11-15
+ct0531,Daonan Riverside Park Tennis Courts,Taipei,Taiwan,Wenshan,public,,unknown,official-venue,https://vbs.sports.taipei/venues/?K=425,2026-11-15
+ct0532,Emirates Tennis Academy - Safa Park,Dubai,United Arab Emirates,Al Safa,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0533,Emirates Tennis Academy - Al Barsha Pond Park,Dubai,United Arab Emirates,Al Barsha,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0534,Emirates Tennis Academy - Al Nahda Pond Park,Dubai,United Arab Emirates,Al Nahda,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0535,ISD ProStyle Tennis,Dubai,United Arab Emirates,Dubai Sports City,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0536,Tennis 360 World Trade Centre Courts,Dubai,United Arab Emirates,Trade Centre,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0537,Tennis 360 Meydan Courts,Dubai,United Arab Emirates,Meydan,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0538,Al Nasr Leisureland Tennis Courts,Dubai,United Arab Emirates,Oud Metha,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0539,Athletic Kings Tennis Club,Dubai,United Arab Emirates,Al Manara,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0540,Rackets Academy Indoor Tennis,Dubai,United Arab Emirates,Dubai Hills,club,,unknown,destination-guide,https://www.visitdubai.com/en/articles/tennis-in-dubai,2026-11-15
+ct0541,Singapore Cricket Club Tennis Courts,Singapore,Singapore,Downtown Core,private,2,unknown,official-club,https://scc.org.sg/sport_facilities/tennis-courts/,2026-11-15
+ct0542,Singapore Island Country Club Tennis Courts,Singapore,Singapore,Central Water Catchment,private,5,unknown,third-party-directory,https://sglessons.com/tennis/clubs/,2026-11-15
+ct0543,Tanglin Club Tennis Courts,Singapore,Singapore,Tanglin,private,2,unknown,third-party-directory,https://sglessons.com/tennis/clubs/,2026-11-15
+ct0544,Hollandse Club Tennis Courts,Singapore,Singapore,Bukit Timah,private,5,unknown,third-party-directory,https://sglessons.com/tennis/clubs/,2026-11-15
+ct0545,Chinese Swimming Club Tennis Courts,Singapore,Singapore,Marine Parade,private,3,unknown,third-party-directory,https://sglessons.com/tennis/clubs/,2026-11-15
+ct0546,The American Club Singapore Tennis Courts,Singapore,Singapore,Tanglin,private,4,unknown,third-party-directory,https://sglessons.com/tennis/clubs/,2026-11-15
+ct0547,British Club Singapore Tennis Courts,Singapore,Singapore,Bukit Timah,private,4,unknown,third-party-directory,https://sglessons.com/tennis/clubs/,2026-11-15
